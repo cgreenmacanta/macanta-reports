@@ -1,0 +1,351 @@
+{
+  "company_name": "Coras Consulting",
+  "icp_rag": "amber",
+  "prod_rag": "red",
+  "sales_rag": "red",
+  "coll_rag": "amber",
+  "mc_rag": "red",
+  "exec_summary": "Eoin, your website establishes a credible foundation with a clear niche in ERP selection and implementation for growth-stage technology companies, supported by recognisable client logos including Pleo, FeedzAI and Exclaimer. However, your broader commercial presence is thin: no LinkedIn company page for Coras Consulting was found in our research, and no podcast appearances, webinar activity or event presence were visible in any channel. Your services are presented as a list of seven separate items with no visible connection between them and no described pathway from one engagement to the next, which maps directly onto the cross-sell challenge you have described. The AI readiness opportunity you have identified does not yet appear anywhere in your public-facing presence, and no pricing for your own services is published anywhere on the site.",
+  "focus": [
+    {
+      "h4": "Build a visible professional presence beyond your website",
+      "p": "Your website exists but your broader online presence does not. No LinkedIn company page for Coras Consulting was found in our research, and no personal LinkedIn posting activity, podcast appearances or event presence were identified for you. Your target buyers will search for you before they engage, and what they find will shape whether they do."
+    },
+    {
+      "h4": "Package your services into a journey, not a list",
+      "p": "Your seven services are presented on the website as separate items with no visible connection between them and no described pathway from one engagement to the next. Building a clear, structured progression from initial engagement through to retained advisory work is the most direct response to the upsell challenge you have named."
+    },
+    {
+      "h4": "Establish your AI readiness positioning before someone else does",
+      "p": "You have identified an AI readiness offering for financial reporting workflows as a significant opportunity, and your background as a former finance director and technologist makes that positioning credible. At present, nothing on your website or in any public channel signals this capability, and producing even a short piece of content in this area would begin to establish your thinking and give you something to share with existing and prospective clients."
+    }
+  ],
+  "icp_data": [
+    {
+      "label": "1",
+      "title": "Customer Clarity",
+      "body1": "Logos signal niche, written content does not,",
+      "body2": "no named customer profile on site",
+      "q": "Is it clear who your ideal customers are from your online presence?",
+      "h4": "Client logos point to a niche that the written content does not name",
+      "p": [
+        "Your website homepage states that you are former finance directors who provide solutions encompassing the data and processes central to your business operations (coras-consulting.com homepage). This positions the business around finance leadership and systems, but does not name a specific customer type, company size, sector or stage of growth. The About page (coras-consulting.com/about-us) repeats this framing without adding specificity about who you serve.",
+        "The client logos visible on the homepage — FeedzAI, Pleo, Klipboard, Exclaimer and Cyncly — point clearly towards growth-stage technology companies, predominantly UK-based. This is the clearest signal on the site of who your ideal customer is, but it is communicated through imagery rather than through any written description of your target client. A prospect visiting the site who does not recognise those logos would not be able to identify themselves as the right type of client from the written content alone.",
+        "The services page (coras-consulting.com/our-services) references organisations considering moving to an ERP, businesses operating across multiple currency zones, and finance teams struggling with fast-paced growth. These are useful signals but they describe a situation rather than a customer profile. No LinkedIn company page for Coras Consulting was found in the research, so no supplementary ICP signalling was available from that channel."
+      ]
+    },
+    {
+      "label": "2",
+      "title": "Problem Understanding",
+      "body1": "Specific pain points named on services pages,",
+      "body2": "business impact not connected to buyer objectives",
+      "q": "Do you understand deeply the business challenges your customers are trying to solve?",
+      "h4": "Specific problems are named but business impact is not drawn out",
+      "p": [
+        "The services page (coras-consulting.com/our-services) asks three direct questions: are inefficient processes making it difficult for your finance team to keep up with your businesses fast paced growth, does your business operate across numerous currency zones, and have you lost faith in your month end consolidation process. These are specific, recognisable problems for the target buyer and demonstrate familiarity with the operational reality of a scaling finance team.",
+        "The blog post on financial reporting in NetSuite (coras-consulting.com/financial-reporting-in-netsuite-limitations-solutions, published August 2024) goes further. It identifies a precise and common frustration — that NetSuite reporting underwhelms users after go-live — and walks through specific workarounds. The observation that the biggest complaint heard from clients after going live with NetSuite is the manual steps required to produce monthly management reports is grounded and specific.",
+        "However, the homepage and about page do not go beyond surface-level descriptions of the challenge. The wider business objectives of the buyer — growth, investor reporting, multi-entity consolidation, M&A readiness — are not addressed. The connection between the buyer's commercial pressures and the specific outcome your work delivers is not drawn explicitly anywhere on the site."
+      ]
+    },
+    {
+      "label": "3",
+      "title": "Sales and Marketing Alignment",
+      "body1": "No LinkedIn company page found,",
+      "body2": "no individual profile activity visible",
+      "q": "Are your sales and marketing teams aligned around the same customer?",
+      "h4": "No LinkedIn company presence found and no individual activity visible",
+      "p": [
+        "No LinkedIn company page for Coras Consulting was found during research. A LinkedIn page at uk.linkedin.com/company/coras exists but its description — mentoring and investment with a handful of carefully selected startups — indicates this is a separate, unrelated entity. No Coras Consulting company LinkedIn page with posts, content or follower activity was identified.",
+        "The individual LinkedIn profiles of Eoin Holohan and Benjamin Langley were not returned in the research results. Their LinkedIn activity, posting history and the themes they write about were not available for review. No evidence was found of LinkedIn posts, shared articles, promoted content or webinar activity by either individual on any platform.",
+        "The absence of any visible LinkedIn company presence and the inability to locate individual profiles means there is no basis on which to assess whether the website messaging and any personal LinkedIn activity are pointing towards the same customer with the same language and themes."
+      ]
+    },
+    {
+      "label": "4",
+      "title": "Commercial Credibility",
+      "body1": "Former finance director background maps directly,",
+      "body2": "onto target buyer profile",
+      "q": "Do you hire commercial people who can build credibility with your buyers?",
+      "h4": "Eoin's background maps directly onto the profile of the buyer he is selling to",
+      "p": [
+        "Eoin Holohan is described on the About page (coras-consulting.com/about-us) as a chartered accountant and former finance director with ten years of ERP functional experience, and as a PRINCE2 certified project manager. His background maps directly onto the profile of the buyer he is selling to. A finance director or CFO at a growth-stage technology company who is considering an ERP investment is being asked to trust someone who has sat in their seat.",
+        "Benjamin Langley is described as a NetSuite systems expert who has worked on more than 30 successful implementations, with particular depth in manufacturing and workforce planning. His profile provides technical credibility that complements Eoin's finance and commercial background.",
+        "The client list on the homepage includes FeedzAI, Pleo, Klipboard, Exclaimer and Cyncly. The WiredScore case study on the About page (coras-consulting.com/about-us) includes a direct reference to Eoin by name and to his work managing multiple workstreams on a brand simplification project, which is a further signal of the level at which he operates."
+      ]
+    },
+    {
+      "label": "5",
+      "title": "Geographic Targeting",
+      "body1": "UK offices listed in London and Manchester,",
+      "body2": "no explicit market targeting content visible",
+      "q": "Do you have a targeted approach for each market and geography you sell into?",
+      "h4": "UK presence is implied by office listings but not stated in any content",
+      "p": [
+        "The website footer and case studies page (coras-consulting.com/case-studies) list two UK office addresses: London (307 Euston Road, NW1 3AD) and Manchester (Peter House, Oxford Street, M1 5AN). A UK phone number is also listed. This confirms a UK base and signals a physical presence in two major UK commercial centres.",
+        "Beyond the office listings, no content on the website specifically calls out the UK as the primary market, names any other target geography, or describes a market approach. The NetSuite Pricing Calculator (coras-consulting.com/netsuite-pricing-calculator) asks users to select the country of their main operations, with turnover ranges stated in pounds sterling, which implies a UK focus but does not make it explicit.",
+        "No content was found that addresses any geography outside the UK. No evidence of attendance at industry events or conferences in any market was found. No market-specific case studies, country-specific landing pages or regional content were visible on the website or in any other channel reviewed."
+      ]
+    }
+  ],
+  "prod_data": [
+    {
+      "label": "1",
+      "title": "Proposition Clarity",
+      "body1": "Core territory clear, headline proposition,",
+      "body2": "not easy to parse in 30 seconds",
+      "q": "Can your proposition be quickly and easily understood?",
+      "h4": "The territory is clear but the opening proposition is not easy to grasp quickly",
+      "p": [
+        "The homepage headline is Complex Made Simple (coras-consulting.com homepage), followed by: we are former finance directors who provide solutions encompassing the data and processes central to your business operations. This sentence communicates the background and broad territory, but solutions encompassing the data and processes central to your business operations is not an easy phrase to parse quickly.",
+        "The services page (coras-consulting.com/our-services) lists seven distinct service lines with short descriptions for each. These are written in accessible language and avoid heavy technical jargon, which is a strength. A reader who stays on the page long enough will understand the range of work on offer. However, the services are presented as a list rather than as a connected story, and there is no single sentence anywhere on the website that captures the full proposition in plain language within 30 seconds.",
+        "The blog post on NetSuite financial reporting (coras-consulting.com/financial-reporting-in-netsuite-limitations-solutions) is written in clear, practical language that is easy to follow. It demonstrates that clear writing is possible but this style does not carry through consistently to the core proposition pages."
+      ]
+    },
+    {
+      "label": "2",
+      "title": "Problem Definition",
+      "body1": "Real problems named on services pages,",
+      "body2": "business impact of inaction not articulated",
+      "q": "Do your products solve clearly defined customer problems?",
+      "h4": "Problems are identified but the cost of not solving them is not made explicit",
+      "p": [
+        "Several pages on the website articulate specific customer problems. The services page (coras-consulting.com/our-services) names inefficient processes, operating across multiple currency zones, and loss of confidence in month-end consolidation as triggers for ERP investment. The NetSuite Optimisation page names the experience of going live with a rapid implementation that has not fully addressed business processes as the core problem it solves.",
+        "The blog post on NetSuite financial reporting (coras-consulting.com/financial-reporting-in-netsuite-limitations-solutions) identifies the manual steps required to produce a monthly management reporting pack as the key frustration post-go-live, and then works through specific solutions. This is the strongest example of problem-to-solution specificity on the site.",
+        "However, the descriptions do not consistently go beyond the surface problem to articulate the business impact of not solving it. No page quantifies what the cost of delay, inefficiency or a poor implementation looks like. The connection between solving these problems and broader business objectives — investor reporting, scaling for fundraising, multi-entity consolidation — is not made explicitly."
+      ]
+    },
+    {
+      "label": "3",
+      "title": "Entry Point",
+      "body1": "Pricing calculator captures leads at selection stage,",
+      "body2": "no entry engagement described for other stages",
+      "q": "Is there a clear jumping off point for new customers?",
+      "h4": "A lead capture tool exists at selection stage but no entry engagement is described",
+      "p": [
+        "The website includes a NetSuite Pricing Calculator (coras-consulting.com/netsuite-pricing-calculator) that is gated by name, business name, country, email address and phone number. A prospective client who wants to understand what NetSuite might cost their business can use this tool and, in doing so, submits contact details. This is a functional lead capture mechanism and a useful low-barrier starting point for businesses at the ERP selection stage.",
+        "Beyond the calculator, no clearly described entry engagement for Coras Consulting's own services is visible on the website. There is no introductory workshop, no discovery call described with a defined scope, no fixed-price assessment, and no free sample of any kind. The services page describes what each service involves but does not indicate how a new client would begin, what the first step looks like or what they would get from an initial conversation.",
+        "A prospect who is not at the ERP selection stage — for example, someone who has already gone live and is struggling with reporting — has no clearly signposted entry point that reflects their situation. A general contact prompt exists on the site but is not accompanied by any description of what happens next."
+      ]
+    },
+    {
+      "label": "4",
+      "title": "Upsell Pathways",
+      "body1": "Seven services listed separately,",
+      "body2": "no progression or packaging described",
+      "q": "Do you have clear upsell and cross-sell opportunities within your offering?",
+      "h4": "Services are listed individually with no visible pathway between them",
+      "p": [
+        "Seven services are listed on the website: ERP Selection, Implementation, Project Management, Data Migration, Integrations, NetSuite Optimisation and Oracle Optimisation (coras-consulting.com/our-services). Each is described as a standalone service. There is no visible packaging that groups these services into journeys or phases, and there is no language anywhere on the site that describes a natural progression from one service to the next.",
+        "A client who has engaged you for ERP selection has no way of seeing from the website that implementation, project management, data migration and integrations naturally follow. A client who has gone live and is struggling with reporting cannot see how optimisation work leads to integrations or additional advisory support. The services exist as a list and the connection between them is not articulated.",
+        "No tiered service packages, retainer options, expanded advisory engagements or additional modules are described anywhere on the site."
+      ]
+    },
+    {
+      "label": "5",
+      "title": "Pricing Alignment",
+      "body1": "No service pricing published anywhere,",
+      "body2": "value not connected to commercial framing",
+      "q": "Is your pricing aligned to the value you create?",
+      "h4": "No pricing for your own services is published anywhere on the website",
+      "p": [
+        "No pricing for Coras Consulting's own services is published anywhere on the website. The NetSuite Pricing Calculator (coras-consulting.com/netsuite-pricing-calculator) generates an estimate of the cost of a NetSuite licence, not of Coras Consulting's professional fees. The calculator helps a prospect understand what the software will cost, not what working with you will cost.",
+        "No day rates, project fee ranges, retainer structures or value-based pricing descriptions are visible anywhere on the site. The benefits of each service — time saved, risk reduced, process efficiency gained — are described in general terms on the services page, but no pricing context is provided against which a prospect could assess value for money.",
+        "The unique value the business can claim — being led by a former finance director who understands both the financial and technical sides of an implementation — is described on the About page but is not connected to any pricing or commercial framing elsewhere on the site."
+      ]
+    }
+  ],
+  "sales_data": [
+    {
+      "label": "1",
+      "title": "Process Visibility",
+      "body1": "No buying journey described on website,",
+      "body2": "no how we work page visible",
+      "q": "Does your sales process have a clear beginning, middle and end?",
+      "h4": "No description of the buying or engagement process is visible publicly",
+      "p": [
+        "No description of a buying or engagement process is visible on the website or in any other public-facing channel reviewed. The services page (coras-consulting.com/our-services) describes what each service involves, but does not describe the steps a new client would go through from first contact to project commencement. There is no how we work page, no described onboarding process, and no visual or written representation of the client journey.",
+        "The WiredScope case study referenced on the About page (coras-consulting.com/about-us) describes the project outcome and some challenges encountered, but does not walk through the process by which Coras Consulting was engaged or how the engagement unfolded. A prospect reading the site has no way of understanding what happens between making an enquiry and a project beginning.",
+        "The prospect did not complete the optional sales process section of the form, so no self-reported information about the internal process was provided to supplement this assessment."
+      ]
+    },
+    {
+      "label": "2",
+      "title": "Buyer-Centred Design",
+      "body1": "No publicly visible process structure found,",
+      "body2": "prospect bears full burden of progression",
+      "q": "Is your sales process designed around how customers buy rather than how you prefer to sell?",
+      "h4": "No publicly visible process structure was found in any channel reviewed",
+      "p": [
+        "No publicly visible information about the structure of Coras Consulting's sales process was found on the website or in any other channel reviewed. Without a described buying process, a prospect cannot self-qualify, understand the steps involved in engaging the business, or move forward without making a direct enquiry.",
+        "The target buyer — a finance director or CFO at a growth-stage technology company considering an ERP investment — typically undertakes structured due diligence before committing to a project of this scale. They will look for evidence of process, references, defined project stages and a clear understanding of what they are buying. None of these are visible in the public domain for Coras Consulting.",
+        "The prospect did not complete the optional sales process section of the form, so no self-reported information was provided about how the process is structured internally."
+      ]
+    },
+    {
+      "label": "3",
+      "title": "Team Alignment",
+      "body1": "Sales process section not completed,",
+      "body2": "no public evidence of shared process",
+      "q": "Is your team aligned around the same sales process?",
+      "h4": "No information was provided about a shared internal process",
+      "p": [
+        "The prospect did not complete the optional sales process section of the form. No self-reported information was provided about whether a defined sales process exists, whether discovery scripts are used, or whether the team follows a shared approach.",
+        "No external evidence of a consistent, defined sales approach was found in any public channel reviewed. With a two-person business, the concept of team alignment applies in a limited way, but the absence of any stated process in either the form or the public domain means there is no basis on which to confirm that a consistent approach is in use."
+      ]
+    },
+    {
+      "label": "4",
+      "title": "Repeatability",
+      "body1": "No defined process visible publicly,",
+      "body2": "recruiter-led entry model described in form",
+      "q": "Is your sales process repeatable across the business?",
+      "h4": "No repeatable process is visible and a recruiter-led entry model is described",
+      "p": [
+        "The prospect did not complete the optional sales process section of the form. No information was provided about how engagements are initiated, structured or closed. No publicly visible evidence of a defined, repeatable process was found on the website or in any other channel reviewed.",
+        "The form answer confirms that you are frequently brought into projects by recruiters as a point solution, which suggests that a proportion of new work arrives through an intermediary channel rather than through a defined outbound or inbound sales process. The challenge described — difficulty expanding beyond the initial engagement — is consistent with a model that does not yet have a structured, repeatable pathway from initial contact to full-service client."
+      ]
+    },
+    {
+      "label": "5",
+      "title": "Selling Methodology",
+      "body1": "Sales process section not completed,",
+      "body2": "no methodology named or described",
+      "q": "Do you use a particular selling system or methodology?",
+      "h4": "No selling methodology was named or described",
+      "p": [
+        "The prospect did not complete the optional sales process section of the form. No selling methodology was named or described. No information was provided about the internal approach used when progressing opportunities, qualifying prospects or structuring sales conversations."
+      ]
+    }
+  ],
+  "coll_data": [
+    {
+      "label": "1",
+      "title": "Public Collateral",
+      "body1": "Blog and calculator targeted at right buyer,",
+      "body2": "limited depth and narrow content range",
+      "q": "How targeted towards your ideal customer is your publicly available collateral?",
+      "h4": "Existing content is oriented correctly but limited in depth and range",
+      "p": [
+        "The publicly available collateral on the website includes service pages, a blog, a NetSuite Pricing Calculator and a case study reference on the About page. The service pages (coras-consulting.com/our-services) are written in accessible language and address recognisable finance team challenges. The blog post on NetSuite financial reporting (coras-consulting.com/financial-reporting-in-netsuite-limitations-solutions) is the strongest example of targeted content: it speaks directly to the experience of a finance professional managing reporting in NetSuite post-go-live and provides practical guidance.",
+        "The NetSuite Pricing Calculator (coras-consulting.com/netsuite-pricing-calculator) is targeted at a specific buyer moment — the point at which someone is evaluating whether NetSuite is affordable for their business. It is a useful piece of content for that stage, though it focuses on the software cost rather than the consulting engagement.",
+        "The homepage client logos — FeedzAI, Pleo, Klipboard, Exclaimer and Cyncly — are visible but not accompanied by case study narratives on the homepage. The collateral that does exist is oriented towards the right type of buyer, but the range of content types is narrow."
+      ]
+    },
+    {
+      "label": "2",
+      "title": "Pitch Deck",
+      "body1": "Deck uploaded but text extraction failed,",
+      "body2": "manual review required before scoring",
+      "q": "How targeted towards your ideal customer is the pitch deck or collateral you shared directly with us?",
+      "h4": "A deck was provided but its content could not be reviewed",
+      "p": [
+        "A PowerPoint presentation titled Coras Consulting Solution Playback Deck was uploaded as part of the form submission. Text extraction from this file was not possible during the research process. The content of the deck could not be reviewed.",
+        "The score of AMBER reflects the fact that structured collateral was provided, which indicates a presentation exists. Whether its content is targeted at the right customer type, written in plain language and focused on outcomes rather than features could not be confirmed from the available evidence. Macanta should review this file manually before finalising this assessment."
+      ]
+    },
+    {
+      "label": "3",
+      "title": "Revenue Support",
+      "body1": "Pricing calculator generates leads effectively,",
+      "body2": "most site content lacks clear next step",
+      "q": "Does every asset support revenue generation rather than simply provide information?",
+      "h4": "The pricing calculator supports lead capture but most content lacks a clear call to action",
+      "p": [
+        "The NetSuite Pricing Calculator (coras-consulting.com/netsuite-pricing-calculator) is the clearest example of an asset designed to generate a lead. It requires contact details to return a result, creating a direct capture mechanism. The blog post on NetSuite financial reporting (coras-consulting.com/financial-reporting-in-netsuite-limitations-solutions) contains a reference to a related article on saved searches, creating an internal link, but does not contain a clear call to action directing the reader towards an engagement with Coras Consulting.",
+        "The service pages each contain a See More link but none contain a clear next step such as a defined enquiry prompt, a described first meeting, or a link to book a conversation. The case study content visible on the About page ends with a description of the outcome and challenges encountered but does not direct the reader towards a next step.",
+        "The overall picture is that some assets are structured to generate leads, but the majority of the site's content is informational rather than designed to move a reader along a buying journey."
+      ]
+    },
+    {
+      "label": "4",
+      "title": "Localisation",
+      "body1": "UK offices listed, sterling used in calculator,",
+      "body2": "no explicit market-specific content present",
+      "q": "How localised is your collateral towards your target markets?",
+      "h4": "UK focus is implied through office listings and currency but not stated in content",
+      "p": [
+        "The website lists UK office addresses in London and Manchester (coras-consulting.com/case-studies footer) and uses pound sterling as the currency reference in the NetSuite Pricing Calculator (coras-consulting.com/netsuite-pricing-calculator). These are implicit indicators of UK focus.",
+        "The WiredScore case study referenced on the About page (coras-consulting.com/about-us) is a UK-based business, and the client logos on the homepage — Pleo, FeedzAI, Klipboard, Exclaimer and Cyncly — are predominantly UK or European technology companies. This is a meaningful signal of market focus even if it is not stated explicitly.",
+        "No content on the website specifically names the UK as the target market, references UK-specific regulatory considerations or addresses any aspect of the buying context that is specific to UK-based finance teams. No market-specific landing pages exist and no content targeting any other geography was found."
+      ]
+    },
+    {
+      "label": "5",
+      "title": "Message Consistency",
+      "body1": "Website messaging internally consistent,",
+      "body2": "no external channels available to assess",
+      "q": "Is your messaging consistent across presentations, proposals and marketing materials?",
+      "h4": "Website messaging is consistent internally but no external channels were available to review",
+      "p": [
+        "The website messaging is internally consistent. The homepage, about page and services pages all use the same core framing: former finance directors, hands-on approach, ERP selection and implementation. The language and tone are broadly consistent across the pages reviewed.",
+        "The uploaded pitch deck — Coras Consulting Solution Playback Deck — could not be reviewed due to a text extraction failure. Whether the messaging in the deck is consistent with the website cannot be confirmed from the available evidence. Macanta should check this manually.",
+        "No LinkedIn company page for Coras Consulting was found in the research, and no personal LinkedIn posts, podcast appearances, webinar recordings or other external content by Eoin Holohan or Benjamin Langley were identified. With only the website available as a source of messaging, there is no basis on which to assess cross-channel consistency at this stage."
+      ]
+    }
+  ],
+  "mc_data": [
+    {
+      "label": "1",
+      "title": "Channel Mix",
+      "body1": "Website is the only active channel found,",
+      "body2": "no LinkedIn, events or media presence visible",
+      "q": "Are you leveraging the most appropriate channels to reach your ideal customers?",
+      "h4": "The website is the only active channel identified in the research",
+      "p": [
+        "The website (coras-consulting.com) is the only publicly visible channel identified for Coras Consulting during this research. No LinkedIn company page for Coras Consulting was found. No personal LinkedIn posting activity by Eoin Holohan or Benjamin Langley was identified. No YouTube channel, podcast appearances, webinar recordings, event appearances or community group affiliations specific to Coras Consulting were found in any channel reviewed.",
+        "The target buyer — a finance director or CFO at a growth-stage UK technology company evaluating an ERP investment — is typically active on LinkedIn and participates in professional communities, networks and peer groups. LinkedIn is the most relevant channel for reaching this buyer with professional credibility. Its absence as an active channel is a notable gap in the context of the target market.",
+        "No evidence of attendance at relevant industry events — such as SuiteWorld, Oracle CloudWorld or UK-based finance and technology conferences — was found in the research."
+      ]
+    },
+    {
+      "label": "2",
+      "title": "Leadership Visibility",
+      "body1": "Biography and credentials on About page,",
+      "body2": "no external appearances found in any channel",
+      "q": "How much of a clear picture can a prospect develop of your business and your leadership before they reach out?",
+      "h4": "A prospect can find credentials on the website but little else in any external channel",
+      "p": [
+        "A prospect who visits the website will find a name, a professional background summary, a photograph, a brief biography and a list of client logos on the About page (coras-consulting.com/about-us). Eoin is described as a chartered accountant and former finance director with ten years of ERP functional experience and PRINCE2 certification. Benjamin Langley is described as a NetSuite specialist with more than 30 successful implementations. The WiredScore case study includes a named reference to Eoin and a brief description of the project.",
+        "No LinkedIn profile was accessible for either individual, and no external appearances — podcast interviews, conference talks, written articles, webinar recordings — were found in the research. A prospect cannot form a picture of how Eoin thinks about problems, what his views are on ERP implementation, or what working with him is like, from anything beyond the website's short biography. The picture available is accurate but limited in depth."
+      ]
+    },
+    {
+      "label": "3",
+      "title": "Campaign Execution",
+      "body1": "One blog post found from August 2024,",
+      "body2": "no campaign activity visible in any channel",
+      "q": "How well are you executing multi-channel campaigns driving clarity of message, continuity of story and purpose of the business?",
+      "h4": "No multi-channel campaign activity was identified in any channel reviewed",
+      "p": [
+        "No multi-channel campaign activity was identified for Coras Consulting in any channel reviewed. No LinkedIn posts, blog series, email campaigns, webinar programmes or coordinated content activity was found. The blog on the website contains at least one published post (the NetSuite financial reporting article from August 2024), but no evidence of additional posts published after that date was found in the research.",
+        "The website messaging is clear and consistent within the site itself, but this consistency does not extend to any external channel because no external channels appear to be in active use."
+      ]
+    },
+    {
+      "label": "4",
+      "title": "Engagement Levels",
+      "body1": "No engagement data available,",
+      "body2": "no active channels found to measure",
+      "q": "What level of engagement are you seeing across all of your channels?",
+      "h4": "No engagement data is available because no active channels were found",
+      "p": [
+        "With no LinkedIn company page found, no personal LinkedIn post activity identified, no YouTube channel, no podcast appearances and no webinar or event activity visible, there is no engagement data available to assess across any channel beyond the website itself.",
+        "The Trustpilot listing for coras-consulting.com shows one review. The Glassdoor listing for Coras Consulting exists but contains no substantive review content visible from the research. No metrics, follower counts, post engagement figures or audience data were available from any source for Coras Consulting specifically."
+      ]
+    },
+    {
+      "label": "5",
+      "title": "Funnel Touch Points",
+      "body1": "Pricing calculator and contact form exist,",
+      "body2": "no social or external touch points found",
+      "q": "Are there relevant and publicly available touch points for prospects to engage with to fall into your sales funnel?",
+      "h4": "Two on-site touch points exist but no external touch points were found",
+      "p": [
+        "The website provides two primary touch points: a contact form and the NetSuite Pricing Calculator (coras-consulting.com/netsuite-pricing-calculator). The pricing calculator is the more structured of the two, requiring contact details before returning an estimate. This is a functional mechanism for capturing prospects who are at the ERP evaluation stage.",
+        "The general contact mechanism exists but is not accompanied by any described next step. A prospect who submits an enquiry through the contact form has no indication of what happens next, what a first conversation looks like, or what they will get from engaging. The blog post on NetSuite financial reporting (coras-consulting.com/financial-reporting-in-netsuite-limitations-solutions) exists as a piece of content a prospect might find through search, but it does not contain a clear call to action directing the reader towards an enquiry.",
+        "No social media channels, LinkedIn content or other external touch points were found through which a prospect could encounter Coras Consulting without actively visiting the website."
+      ]
+    }
+  ],
+  "password": "Corasconsulting2026"
+}
