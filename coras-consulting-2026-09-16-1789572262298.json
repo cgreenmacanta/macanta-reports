@@ -1,0 +1,357 @@
+{
+  "company_name": "Coras Consulting",
+  "icp_rag": "amber",
+  "prod_rag": "amber",
+  "sales_rag": "amber",
+  "coll_rag": "amber",
+  "mc_rag": "amber",
+  "exec_summary": "Eoin, your online presence tells a coherent story at a surface level: a former finance director with genuine ERP and systems expertise, a credible client list including Feedzai, Pleo, WiredScore, and Exclaimer, and a structured service suite from selection through to optimisation. The Feedzai testimonial, the WiredScore case study, and your co-hosting of ERP ON TAP with Tenth Revolution Group are real signals of delivery credibility and market presence. The challenge is that the commercial infrastructure around that credibility is thin: your ideal customer is not clearly defined in any public-facing material, your entry-point product the Coras Transformation Accelerator exists only inside a sales deck and is invisible to any prospect who has not yet agreed to a meeting, and most of your website content informs rather than converts. The disconnect you have described between winning point-solution work and building longer client relationships is visible in the external picture: there is no publicly legible path from a first engagement to the broader suite of services, and a prospect who finds you online has limited ability to self-qualify, understand your offer, or take a concrete next step without already knowing what they want to buy.",
+  "focus": [
+    {
+      "h4": "Define and publish your ideal customer before they find you",
+      "p": "Your website and public presence do not specify who you are best placed to help: no company size, funding stage, sector, or geography is named anywhere that a prospect would find before a meeting. Publishing a clear and specific picture of your ideal customer would make inbound enquiries more relevant and reduce time spent qualifying buyers who are not a good fit."
+    },
+    {
+      "h4": "Put the Coras Transformation Accelerator in the window",
+      "p": "The Transformation Accelerator is a well-structured entry-point product with a clear four-step process, a defined four-week timeline, and a published price of ten thousand pounds. It is currently visible only inside your sales deck, meaning a prospect must agree to a meeting before they can see it. Moving this product and its pricing onto your website would give prospects a concrete, low-friction first step and a clearer answer to the question of what working with you actually looks like."
+    },
+    {
+      "h4": "Build a content-led nurture engine around your LinkedIn presence",
+      "p": "Your biggest commercial asset is the credibility that comes from being a former finance director who deeply understands ERP from both sides. Your post comparing NetSuite and Microsoft Dynamics and your co-hosting of ERP ON TAP show you can produce content that attracts the right audience. Turning that into a regular, structured content habit with each piece linking back to a clear next step would give you a way to stay visible with potential clients between engagements rather than relying on referral or recruiter channels."
+    }
+  ],
+  "icp_data": [
+    {
+      "label": "1",
+      "title": "Customer Clarity",
+      "body1": "Partial ICP visible across channels,",
+      "body2": "not yet defined in one place",
+      "q": "Is it clear who your ideal customers are from your online presence?",
+      "h4": "Target customer is implied but not stated",
+      "p": [
+        "Your website homepage opens with the headline 'Complex Made Simple' and describes you as 'former finance directors who provide solutions encompassing the data and processes central to your business operations' (coras-consulting.com homepage). This establishes a professional background but does not specify who your ideal customer is. There is no mention of company size, funding stage, sector, or geography anywhere on the homepage or services pages. The services page describes pain points such as 'inefficient processes making it difficult for your finance team to keep up with your businesses fast paced growth' and 'operating across numerous currency zones', which are broadly relatable but not targeted at a defined buyer type (coras-consulting.com/our-services).",
+        "Your sales deck provides a stronger signal. The client logo slide shows WiredScore, Tesco, HSS ProService, Cyncly, dentsu, Oviva, Pleo, Feedzai, Beauty Works, Exclaimer, Klipboard, and OSL Group, indicating work across mid-market technology businesses, consumer brands, and professional services firms operating primarily in the UK (Coras Consulting Solution Playback Deck, slide 7). However, this slide is only visible inside a sales meeting and is not reflected on your public website.",
+        "Your LinkedIn headline, visible from your profile, reads 'I help CFOs to plan and manage complex...' and positions you as someone working with CFOs specifically, which is more targeted than anything on the website. The ERP ON TAP event post references a co-hosting arrangement with Tenth Revolution Group, suggesting a technology and ERP-adjacent audience. Between the website and your LinkedIn presence, a prospect can build a partial picture, but it requires piecing together several sources rather than finding a clear statement in one place."
+      ]
+    },
+    {
+      "label": "2",
+      "title": "Problem Depth",
+      "body1": "Operational pain points addressed,",
+      "body2": "business impact less explicit",
+      "q": "Do you understand deeply the business challenges your customers are trying to solve?",
+      "h4": "Good operational understanding, weaker on business consequences",
+      "p": [
+        "Your services page addresses several specific pain points that finance teams face: inefficient processes slowing down a fast-growing business, multi-currency complexity, loss of confidence in month-end consolidation processes, and the gap between what a post-go-live NetSuite implementation delivers versus what was expected (coras-consulting.com/our-services). These are real, recognisable problems for finance leaders, and they go some way beyond surface-level descriptions.",
+        "Your blog post on financial reporting in NetSuite goes further, identifying a specific and common frustration: the manual steps required to produce monthly management reports after going live with NetSuite, and the difficulty non-expert users have with the report builder (coras-consulting.com/financial-reporting-in-netsuite-limitations-solutions). Your sales deck frames customer problems through the lens of questions customers bring to Coras: how to choose the right ERP, how to ensure data is ready for implementation, how to deliver projects on time and on budget, and how to unlock more value from a new ERP after go live (Solution Playback Deck, slide 5).",
+        "What is less visible is a clear articulation of the wider business consequences if these problems go unsolved, or how the challenges connect to the board-level or CFO-level objectives of the companies you serve. The pain points described are real, but they sit at an operational level rather than making the link to what is at stake commercially for the business."
+      ]
+    },
+    {
+      "label": "3",
+      "title": "Team Alignment",
+      "body1": "Founder LinkedIn consistent with website,",
+      "body2": "second team member not visible",
+      "q": "Are your sales and marketing teams aligned around the same customer?",
+      "h4": "Founder positioning consistent across channels",
+      "p": [
+        "Your LinkedIn profile headline, as visible from your profile page, reads 'I help CFOs to plan and manage complex...' and your current role is listed as founder of Coras Consulting since July 2019 (linkedin.com/in/eoin-holohan-815360173). This positions you clearly as someone who works with CFOs and finance leaders on complex technology and process challenges. The website About Us page describes you as a chartered accountant and former finance director with ten years of ERP functional experience and PRINCE2 certification, which is consistent with the LinkedIn positioning (coras-consulting.com/about-us).",
+        "Your LinkedIn posts reinforce a similar theme. Your post comparing NetSuite and Microsoft Dynamics attracted nine reactions and one comment, and speaks directly to the kind of question a finance leader evaluating ERP options would ask. Your post promoting ERP ON TAP, co-hosted with Tenth Revolution Group, is consistent with the ERP advisory positioning and shows active engagement in the market you serve.",
+        "The website does not explicitly call out CFOs or finance directors as the primary buyer. It uses broader language around 'your finance team' and 'your business', which is softer than your LinkedIn headline. Ben Langley is named on the About Us page as a NetSuite systems consultant, but no LinkedIn presence or external profile for him was found in the course of this research, so his public positioning relative to the firm's target customer cannot be assessed (coras-consulting.com/about-us). Overall, your personal LinkedIn presence and your website tell a broadly consistent story, though the website language is less targeted than your LinkedIn profile."
+      ]
+    },
+    {
+      "label": "4",
+      "title": "Commercial Credibility",
+      "body1": "Strong founder domain credibility,",
+      "body2": "no dedicated sales hire visible",
+      "q": "Do you hire commercial people who can build credibility with your buyers?",
+      "h4": "Founder credibility is strong; team sales depth is limited",
+      "p": [
+        "Your own background is directly relevant to the buyers you are targeting. As a chartered accountant and former finance director with ten years of ERP functional experience and PRINCE2 project management certification, you have the professional profile to build credibility with CFOs and finance directors evaluating complex ERP decisions (coras-consulting.com/about-us). The Feedzai testimonial in your sales deck, given by the VP of Finance Transformation at Feedzai and naming you personally, supports this (Solution Playback Deck, slide 8).",
+        "Ben Langley is described on the website as a NetSuite systems consultant with experience across more than 30 successful implementations, with particular expertise in manufacturing and workforce planning processes (coras-consulting.com/about-us). This is a strong technical profile for a delivery role, and his depth of NetSuite knowledge would be credible in conversations with technical buyers or during implementation.",
+        "Information on whether there is a dedicated sales or business development person within the business was neither provided directly through the form, nor is publicly visible. The commercial team as described publicly consists of two people: a founder who combines domain credibility with delivery responsibility, and a specialist consultant. There is no visible evidence of a sales hire with experience selling into the CFO or finance leader market specifically."
+      ]
+    },
+    {
+      "label": "5",
+      "title": "Geographic Focus",
+      "body1": "UK implied by pricing and location,",
+      "body2": "not stated on website or in deck",
+      "q": "Do you have a targeted approach for each market and geography you sell into?",
+      "h4": "UK focus implied but never explicitly stated",
+      "p": [
+        "Your website does not specify the geographies you operate in or sell into. There is no mention of the UK, Ireland, or any other market on the homepage or services pages (coras-consulting.com, coras-consulting.com/our-services). The NetSuite pricing calculator on your website asks 'What country is your businesses main operations?' with a currency indicator in pounds sterling, which implies a UK focus, but this is the only geographic signal visible on the site (coras-consulting.com/netsuite-pricing-calculator).",
+        "Your LinkedIn profile lists your location as Greater London (linkedin.com/in/eoin-holohan-815360173), and the pound sterling pricing in your sales deck for the Coras Transformation Accelerator at ten thousand pounds confirms the UK as your primary operating market (Solution Playback Deck, slide 11). However, neither the website nor the sales deck explicitly states which geographies you serve or whether you are actively targeting any market beyond the UK.",
+        "There is no evidence of a physical presence, team members, or event attendance in any geography outside the UK. No market-specific content, localised pages, or references to serving clients across different geographies were found on the website or in any publicly visible content."
+      ]
+    }
+  ],
+  "prod_data": [
+    {
+      "label": "1",
+      "title": "Proposition Clarity",
+      "body1": "Readable headline and service list,",
+      "body2": "outcomes less clear than features",
+      "q": "Can your proposition be quickly and easily understood?",
+      "h4": "Accessible language but proposition could be sharper",
+      "p": [
+        "Your homepage opens with 'Complex Made Simple' and follows with a description of your background as former finance directors providing solutions encompassing data and processes (coras-consulting.com homepage). This is readable and avoids heavy technical language. The seven services listed on the homepage are clearly named: Selection Framework, Implementation, Project Management, Data Migration, Integrations, NetSuite Optimisation, and Oracle Optimisation (coras-consulting.com homepage). A visitor can understand the range of what you offer, though the connection between these individual services and the outcomes they produce for the buyer is not immediately clear from titles alone.",
+        "Your sales deck addresses this more directly. The 'Questions customers ask us to solve' slide frames your services around customer language: how to choose the right ERP, how to ensure projects are delivered on time and on budget, how to get full value from investments, and how to get help when needed (Solution Playback Deck, slide 5). This is a stronger articulation of the proposition than the website provides, but it is only visible inside a meeting.",
+        "The Coras Transformation Accelerator slide is similarly well framed, with a clear four-step process and accessible language, but again this exists only within the deck (Solution Playback Deck, slide 9)."
+      ]
+    },
+    {
+      "label": "2",
+      "title": "Problem Solving",
+      "body1": "Specific operational pain points named,",
+      "body2": "business impact link underdeveloped",
+      "q": "Do your products solve clearly defined customer problems?",
+      "h4": "Operational problems well described; commercial stakes less explicit",
+      "p": [
+        "Your services page identifies several specific problems that your services address. The Selection Framework section asks whether inefficient processes are making it difficult for finance teams to keep up with fast-paced growth, whether the business operates across numerous currency zones, and whether confidence in month-end consolidation has been lost (coras-consulting.com/our-services). These are recognisable and specific pain points for growing businesses.",
+        "The NetSuite Optimisation page addresses a different but equally specific problem: clients who have gone live with NetSuite and find it is not delivering the expected benefits, often because the rapid implementation did not fully account for their business processes (coras-consulting.com/our-services). Your blog post on financial reporting in NetSuite details the specific gap between what finance teams expect from the platform and what they actually encounter post-go-live (coras-consulting.com/financial-reporting-in-netsuite-limitations-solutions).",
+        "What is less developed is the articulation of the business-level consequence of not solving these problems. The website describes operational frustrations clearly, but does not consistently link those frustrations to what they cost the business in terms of time, money, risk, or competitive position. The sales deck frames benefits at the outcome level in the 'What can we achieve by working together?' slide, but the client-specific content in that slide is unfilled (Solution Playback Deck, slide 4)."
+      ]
+    },
+    {
+      "label": "3",
+      "title": "Entry Point",
+      "body1": "Transformation Accelerator well defined,",
+      "body2": "not visible on website",
+      "q": "Is there a clear jumping off point for new customers?",
+      "h4": "Strong entry product exists but is hidden from public view",
+      "p": [
+        "Your sales deck contains a well-defined entry-point product: the Coras Transformation Accelerator, a four-week initial engagement priced at ten thousand pounds upfront and one-off (Solution Playback Deck, slides 9 and 11). The four steps are clearly described: pain point identification through a survey and five stakeholder interviews; a systems landscape and process review; identification of client-specific initiatives; and a prioritised timeline of change initiatives using the Coras Prioritisation Framework (Solution Playback Deck, slide 9).",
+        "A follow-on slide shows an 18-month client timeline moving from the Transformation Accelerator through system selection, data strategy, implementation, and optimisation and ongoing support (Solution Playback Deck, slide 10). This is a coherent and accessible entry-point offer.",
+        "The gap is that this product does not appear on your website. A prospect visiting coras-consulting.com would find no mention of the Transformation Accelerator, no pricing, and no clearly described first engagement (coras-consulting.com homepage, coras-consulting.com/our-services). The website does have a NetSuite pricing calculator gated behind a contact form, but this is a different tool serving a different purpose (coras-consulting.com/netsuite-pricing-calculator). For a prospect who has not yet reached a meeting with you, the entry point into Coras Consulting is not visible."
+      ]
+    },
+    {
+      "label": "4",
+      "title": "Upsell Path",
+      "body1": "Full customer journey mapped in deck,",
+      "body2": "services logically sequenced",
+      "q": "Do you have clear upsell and cross-sell opportunities within your offering?",
+      "h4": "Upsell path is well structured and legible in the deck",
+      "p": [
+        "Your sales deck makes the upsell and cross-sell path explicit. The Coras Customer Journey diagram maps a full progression from the Transformation Accelerator through ERP Selection and AI Strategy, Data Strategy and Business Process Mapping, ERP and AI Implementation, Systems Integrations, ERP and AI Optimisation, Continuing ERP Support, EPM Selection, and EPM Implementation, with Project Management and Finance Change Management running across the entire timeline (Solution Playback Deck, slide 6).",
+        "The 18-month timeline slide reinforces this, showing the journey from initial assessment through system selection, data strategy, implementation and project management, and optimisation and ongoing support (Solution Playback Deck, slide 10). The structure is clear: a low-commitment entry point leads naturally into a broader programme of work.",
+        "On the website, the seven services listed on the homepage and services page represent a coherent suite that maps to different stages of an ERP lifecycle (coras-consulting.com/our-services). A client who engages for selection has a natural next step in implementation; a client who implements has a natural next step in optimisation. The path from entry to expanded engagement is legible in the deck, though it is less explicitly signposted on the public website."
+      ]
+    },
+    {
+      "label": "5",
+      "title": "Pricing Alignment",
+      "body1": "Entry price clear in deck only,",
+      "body2": "broader pricing not publicly available",
+      "q": "Is your pricing aligned to the value you create?",
+      "h4": "Clear entry price in deck; value-to-price link underdeveloped publicly",
+      "p": [
+        "The only pricing visible in any publicly accessible or provided material is the ten thousand pound upfront one-off fee for the Coras Transformation Accelerator, shown in your sales deck (Solution Playback Deck, slide 11). This is a fixed, clear price point for a defined four-week engagement with a structured deliverable: a prioritised timeline of change initiatives. The positioning of this as a one-off, upfront payment makes it easy to understand and easy to budget for.",
+        "However, this pricing is only visible inside a sales meeting. It is not published on your website (coras-consulting.com). No pricing for any other service is publicly available, nor is it available in the deck. The NetSuite pricing calculator provides an estimate of NetSuite licence costs rather than Coras Consulting's own fees (coras-consulting.com/netsuite-pricing-calculator).",
+        "The unique value Coras Consulting delivers, specifically the combination of a former finance director's perspective with ERP functional expertise and PRINCE2 project management, is described on the About Us page and in the deck, but the connection between that background and the specific commercial outcomes it produces for clients is not consistently made explicit alongside the pricing (coras-consulting.com/about-us). The Feedzai testimonial references delivery within agreed timeframes and process automation, which is relevant, but a broader statement of value in relation to price is not present in the publicly available materials (Solution Playback Deck, slide 8)."
+      ]
+    }
+  ],
+  "sales_data": [
+    {
+      "label": "1",
+      "title": "Process Clarity",
+      "body1": "Clear close process in deck,",
+      "body2": "not visible on website",
+      "q": "Does your sales process have a clear beginning, middle and end?",
+      "h4": "Structured close process in deck; buying journey invisible publicly",
+      "p": [
+        "Your sales deck contains a clearly structured closing slide titled 'How do we get started?' which sets out five sequential steps: your feedback on what was missed from the session, confirmation of readiness to proceed, agreements including SOW and terms completed by a specified date, scheduling of the kick-off and project team, and kick-off two weeks from signed agreement (Solution Playback Deck, slide 12). This gives a prospect inside a meeting a clear sense of the steps required to begin.",
+        "The overall deck structure also implies a journey: current landscape, what can be achieved together, who Coras is and what it offers, client overview, case study, entry-point product, commercials, and next steps (Solution Playback Deck, slide 2). This follows a logical sales narrative.",
+        "However, this process is only visible to a prospect who has already agreed to receive a formal presentation. Nothing on your website describes the buying process or what a prospect can expect if they get in touch (coras-consulting.com). There is no page explaining what happens after a first call, how engagements are scoped, or what the typical onboarding journey looks like. A prospect who finds Coras Consulting online and wants to understand what it would look like to work with you cannot find that information without first making contact."
+      ]
+    },
+    {
+      "label": "2",
+      "title": "Buyer Design",
+      "body1": "Deck sequenced around buyer decisions,",
+      "body2": "website not yet buyer-led",
+      "q": "Is your sales process designed around how customers buy rather than how you prefer to sell?",
+      "h4": "Deck is buyer-led; website requires prospects to already know what they want",
+      "p": [
+        "Your sales deck is structured in a way that reflects how a CFO or finance director typically approaches a buying decision: starting with their current situation and challenges, moving to what outcomes are achievable, then understanding who you are and what you offer, and finally seeing evidence from existing clients before being presented with a first step and a price (Solution Playback Deck, slide 2). This sequencing is broadly aligned with how an informed B2B buyer evaluates a consultancy.",
+        "The Transformation Accelerator as an entry point product is also well designed from the buyer's perspective. A ten-thousand-pound, four-week, clearly scoped engagement with a defined output reduces the risk of a first purchase significantly, which is appropriate for a consultancy relationship where trust needs to be established before a larger commitment is made (Solution Playback Deck, slides 9 and 11).",
+        "The constraint is that much of this process is only visible once a meeting has been arranged. The website does not reflect the buyer's journey in the same way that the deck does. A CFO or finance director who finds Coras Consulting through a search or a LinkedIn post encounters a services list rather than a guided experience (coras-consulting.com/our-services). The gap between how the deck is structured and what the website offers suggests that the designed process depends on a prospect first agreeing to a meeting."
+      ]
+    },
+    {
+      "label": "3",
+      "title": "Team Alignment",
+      "body1": "Scripts and tools reported in use,",
+      "body2": "adoption across team unclear",
+      "q": "Is your team aligned around the same sales process?",
+      "h4": "Sales tools exist and are in use; team-wide adoption hard to verify",
+      "p": [
+        "You have reported that you have put together discovery scripts, cold calling scripts, and message sequences that are well defined and used. This suggests that the sales tools exist and are in active use. The Sandler methodology you have named as your selling framework provides a recognised structure for discovery and qualification that would be consistent with the kind of pain-point-led selling that the Transformation Accelerator entry point implies.",
+        "The sales deck itself is evidence of a structured approach to presenting the commercial offer. It follows a consistent sequence across all visible client engagements and the template nature of the deck, with placeholders for client-specific content, suggests an intention to standardise the presentation (Solution Playback Deck, slide 2).",
+        "Information on whether there is a second person in the business who also uses these tools in a sales capacity was neither provided directly through the form, nor is publicly visible. Ben Langley is described in a delivery role on the website, and there is no publicly visible evidence of his involvement in the sales process (coras-consulting.com/about-us). The alignment question is therefore largely confined to a one-person selling effort at this stage of the business."
+      ]
+    },
+    {
+      "label": "4",
+      "title": "Repeatability",
+      "body1": "Templated deck and fixed-price product,",
+      "body2": "process concentrated in founder",
+      "q": "Is your sales process repeatable across the business?",
+      "h4": "Structural foundations for repeatability exist; scale dependency remains",
+      "p": [
+        "The sales deck provides evidence of a structured, templated sales presentation that is designed to be adapted for different clients while maintaining a consistent sequence and format (Solution Playback Deck, slides 1 to 12). The Coras Transformation Accelerator, with its four defined steps and fixed ten-thousand-pound price point, is a standardised product that does not vary by client type (Solution Playback Deck, slide 9). This is a strong foundation for a repeatable process.",
+        "You have described having discovery scripts and message sequences in place, which supports repeatability in principle. The deck structure is consistent with this: the same logical sequence is followed regardless of which client is being presented to.",
+        "The constraint is that the current commercial team is small, with selling activity concentrated in the founder role. At the current team size, a process carried primarily by one person is structurally dependent on that person's judgment and relationships rather than being institutionally repeatable across multiple sellers. The website and publicly visible collateral do not yet reinforce the sales process independently of the founder."
+      ]
+    },
+    {
+      "label": "5",
+      "title": "Selling Methodology",
+      "body1": "Sandler methodology in use,",
+      "body2": "scripts and sequences reported active",
+      "q": "Do you use a particular selling system or methodology?",
+      "h4": "Sandler named and in active use",
+      "p": [
+        "You have reported using Sandler as your selling methodology. Sandler is a recognised, established sales system with a structured approach to discovery, qualification, and closing. You have also reported having put together discovery scripts, cold calling scripts, and message sequences that are well defined and used across the sales process."
+      ]
+    }
+  ],
+  "coll_data": [
+    {
+      "label": "1",
+      "title": "Public Collateral",
+      "body1": "Blog post and case study credible,",
+      "body2": "no gated or downloadable content",
+      "q": "How targeted towards your ideal customer is your publicly available collateral?",
+      "h4": "Credible content exists but coverage is thin",
+      "p": [
+        "Your website contains several pieces of content relevant to finance leaders evaluating or using ERP systems. The blog post on financial reporting in NetSuite is a detailed, technically informed article that addresses a specific frustration finance teams encounter post-go-live: the manual steps required to produce monthly management reporting packs (coras-consulting.com/financial-reporting-in-netsuite-limitations-solutions). The WiredScore case study on the About Us page describes a specific implementation, the migration from QuickBooks to NetSuite completed within five months, with a brief account of the challenges encountered (coras-consulting.com/about-us).",
+        "The client logo section of the website displays recognisable mid-market technology businesses including Feedzai, Pleo, Exclaimer, Klipboard, and Cyncly, giving a visiting prospect a reference point for the types of businesses Coras Consulting has worked with (coras-consulting.com homepage). The NetSuite pricing calculator is a practically useful tool gated behind a contact form, allowing prospects to estimate the cost of a NetSuite licence for their business (coras-consulting.com/netsuite-pricing-calculator).",
+        "What is less visible publicly is content that addresses the broader commercial challenges of ERP selection or the outcomes clients achieve after working with Coras Consulting. The services descriptions are functional in their language and focused on what Coras does rather than what the client gains. There are no downloadable guides, whitepapers, or gated content assets visible on the website."
+      ]
+    },
+    {
+      "label": "2",
+      "title": "Pitch Deck",
+      "body1": "Structure and real sections strong,",
+      "body2": "large portions still template placeholders",
+      "q": "How targeted towards your ideal customer is the pitch deck or collateral you shared directly with us?",
+      "h4": "Deck structure is strong; client-specific content sections are unfilled",
+      "p": [
+        "The deck you shared is structured around the customer's journey and uses language that is broadly accessible and non-technical throughout. The opening agenda frames the conversation around the customer's current landscape, what can be achieved together, and a clear set of next steps (Solution Playback Deck, slide 2). The 'Questions customers ask us to solve' slide is a strong piece of customer-facing content, framing your services entirely in the language of problems the buyer is trying to solve rather than capabilities you offer (Solution Playback Deck, slide 5).",
+        "The Coras Customer Journey diagram is a clear visual representation of how a client relationship can develop from an initial assessment through to ongoing support (Solution Playback Deck, slide 6). The client logo slide and the Feedzai testimonial from Mamta Lal Patel, VP Finance Transformation, add credibility for a prospect evaluating whether Coras Consulting has worked with businesses similar to their own (Solution Playback Deck, slides 7 and 8).",
+        "However, a significant portion of the deck remains as a template. The 'Your Current Landscape' slide, the 'What can we achieve by working together?' slide, and the case study Context, Action and Result sections are all unfilled placeholders (Solution Playback Deck, slides 3, 4, and 8). The sections that contain real content are strong; the sections that depend on client-specific input are blank."
+      ]
+    },
+    {
+      "label": "3",
+      "title": "Revenue Support",
+      "body1": "Deck closes with clear next steps,",
+      "body2": "website content mostly informs only",
+      "q": "Does every asset support revenue generation rather than simply provide information?",
+      "h4": "In-meeting collateral converts; public content rarely does",
+      "p": [
+        "Your website contains a NetSuite pricing calculator that is gated behind a contact form, requiring a name, business name, country, turnover range, and email address before providing an estimate (coras-consulting.com/netsuite-pricing-calculator). This is a functional lead capture mechanism that connects an informational tool to a commercial outcome.",
+        "The services pages each contain a 'See More' link that expands the service description, and a contact mechanism is available on the website, though it is not prominent within individual service descriptions (coras-consulting.com/our-services). The WiredScore case study on the About Us page describes the project outcome but does not include a clear call to action inviting a prospect to take a similar step (coras-consulting.com/about-us). The blog post on financial reporting in NetSuite is a detailed and useful article but does not contain a call to action connecting its content to a next step with Coras Consulting (coras-consulting.com/financial-reporting-in-netsuite-limitations-solutions).",
+        "Your sales deck closes with a clear five-step 'How do we get started?' slide that asks for feedback, confirmation, agreements, scheduling, and a kick-off date, which is a direct revenue-generating close (Solution Playback Deck, slide 12). Within the meeting context, this is effective. Outside the meeting, most of the publicly available content informs rather than converts."
+      ]
+    },
+    {
+      "label": "4",
+      "title": "Localisation",
+      "body1": "UK implied by sterling pricing,",
+      "body2": "no market called out explicitly",
+      "q": "How localised is your collateral towards your target markets?",
+      "h4": "UK orientation implied by pricing; no market explicitly named",
+      "p": [
+        "Your sales deck uses pound sterling pricing throughout, with the Transformation Accelerator priced at ten thousand pounds, indicating a UK market orientation (Solution Playback Deck, slide 11). Beyond this, there is no explicit statement in the deck or on the website of which markets or geographies you serve.",
+        "The website uses British English spelling and pound sterling in its pricing calculator, which is consistent with a UK focus, but neither the website nor the deck explicitly states that Coras Consulting operates in the UK, serves UK-based clients, or has any presence in other markets (coras-consulting.com, coras-consulting.com/netsuite-pricing-calculator). No market-specific case studies, localised content, or references to specific geographies are present in either the website or the deck.",
+        "The WiredScore case study on the website does not specify where that engagement was delivered (coras-consulting.com/about-us). The client logos in the deck include international businesses but do not identify the geographic scope of the engagements (Solution Playback Deck, slide 7)."
+      ]
+    },
+    {
+      "label": "5",
+      "title": "Message Consistency",
+      "body1": "Core themes consistent across channels,",
+      "body2": "depth varies between website and deck",
+      "q": "Is your messaging consistent across presentations, proposals and marketing materials?",
+      "h4": "Consistent story but varying depth across channels",
+      "p": [
+        "The core themes present across your website, your sales deck, and your LinkedIn activity are broadly consistent. The positioning as a former finance director with ERP expertise who helps finance teams select, implement, and get more value from their systems runs through the website About Us page, the deck's 'Who is Coras?' section, and your LinkedIn profile headline (coras-consulting.com/about-us, Solution Playback Deck slide 5, linkedin.com/in/eoin-holohan-815360173). The client names visible on the website homepage and in the deck's client logo slide are the same (coras-consulting.com homepage, Solution Playback Deck slide 7).",
+        "Your LinkedIn post comparing NetSuite and Microsoft Dynamics is thematically consistent with the ERP selection and advisory positioning of the website and deck. Your post promoting the ERP ON TAP event is consistent with the community and thought leadership positioning you appear to be building in the ERP market.",
+        "The inconsistency is one of depth and completeness rather than contradiction. The website uses broader, less targeted language than the sales deck. The deck's customer-problem framing on slide 5 is more specific and more customer-facing than anything on the services pages of the website. The Transformation Accelerator, which is the most concrete and differentiated product in your portfolio, appears in the deck but not on the website. A prospect encountering you through LinkedIn and then visiting the website, and then later receiving the deck, would find a broadly consistent story but would also notice that the website gives a less complete picture than the other channels."
+      ]
+    }
+  ],
+  "mc_data": [
+    {
+      "label": "1",
+      "title": "Channel Mix",
+      "body1": "LinkedIn active and appropriate,",
+      "body2": "depth of activity currently limited",
+      "q": "Are you leveraging the most appropriate channels to reach your ideal customers?",
+      "h4": "Right channels in use; activity depth needs to grow",
+      "p": [
+        "Your LinkedIn presence is the most active channel visible in this research. Your profile positions you directly as someone who helps CFOs with complex ERP decisions, and you have produced content relevant to that audience, including a post comparing NetSuite and Microsoft Dynamics and a post promoting the ERP ON TAP event (linkedin.com/in/eoin-holohan-815360173). The ERP ON TAP event, co-hosted with Tenth Revolution Group, is a particularly relevant channel for reaching ERP buyers and technology leaders and represents a meaningful business development activity beyond digital content.",
+        "Your website functions as a credibility anchor with a client list, case study, services descriptions, and a blog, though the blog contains only one visible post in this research (coras-consulting.com). The NetSuite pricing calculator serves as a tool that could draw in prospects who are actively researching NetSuite costs, provided it is discoverable through search.",
+        "No YouTube channel, podcast presence, or video content attributable to Coras Consulting was found in the course of this research. Given that your target buyer is a CFO or senior finance leader, LinkedIn is the right primary channel, and in-person events such as ERP ON TAP are a natural complement. The absence of other channels is not in itself a gap, but the depth and regularity of activity on the channels you do use is limited at present."
+      ]
+    },
+    {
+      "label": "2",
+      "title": "Pre-Contact Visibility",
+      "body1": "Credibility established across channels,",
+      "body2": "full offer not visible before meeting",
+      "q": "How much of a clear picture can a prospect develop of your business and your leadership before they reach out?",
+      "h4": "Credibility is visible; commercial offer is not",
+      "p": [
+        "A prospect who finds Coras Consulting and researches you before making contact would find the following: your website with a homepage, services pages, About Us page with your photograph and professional background, a WiredScore case study, a NetSuite pricing calculator, and at least one blog post (coras-consulting.com). Your LinkedIn profile is visible and positions you as someone who helps CFOs with complex ERP and technology decisions, with your role at Coras Consulting confirmed since 2019 (linkedin.com/in/eoin-holohan-815360173).",
+        "The client logo section of the website shows recognisable technology businesses, giving a prospect a sense of who else has worked with you (coras-consulting.com homepage). The Feedzai testimonial on your website, attributed to the VP Finance Transformation at Feedzai, gives a prospect a named reference from a recognisable technology business (coras-consulting.com/about-us).",
+        "What is less available is a complete picture of your commercial offer before a conversation. The Transformation Accelerator, its price, and the 18-month engagement journey are not visible on the website. A prospect who does not reach a meeting cannot see the full structure of how you work or what a first engagement looks like. They can establish that you are credible and experienced, but they cannot self-qualify against a clearly stated ideal customer profile or see a defined first step."
+      ]
+    },
+    {
+      "label": "3",
+      "title": "Campaign Execution",
+      "body1": "Consistent message across channels,",
+      "body2": "no regular publishing cadence visible",
+      "q": "How well are you executing multi-channel campaigns driving clarity of message, continuity of story and purpose of the business?",
+      "h4": "Consistent story; campaign regularity and structure not yet established",
+      "p": [
+        "The message that runs across your website and LinkedIn is consistent in its broad strokes: a former finance director with ERP expertise helping finance teams navigate complex system decisions. This appears on the website About Us page, in your LinkedIn profile headline, and in the framing of your LinkedIn posts (coras-consulting.com/about-us, linkedin.com/in/eoin-holohan-815360173).",
+        "The ERP ON TAP event, co-hosted with Tenth Revolution Group, represents a coordinated channel activity that extends beyond a single post or article, and the LinkedIn post promoting that event shows active use of your LinkedIn presence to drive attendance. Your blog post on financial reporting in NetSuite is consistent with the advisory positioning and demonstrates a willingness to produce substantive, specific content for your audience (coras-consulting.com/financial-reporting-in-netsuite-limitations-solutions).",
+        "The gap is regularity and coordination. One blog post found in this research, three LinkedIn posts identified across your profile, and one event represent a thin content trail relative to what a consistent multi-channel campaign would look like. There is no visible evidence of a content calendar, a regular publishing cadence, or a campaign structure that moves a prospect from awareness through to a defined next step across multiple touchpoints."
+      ]
+    },
+    {
+      "label": "4",
+      "title": "Engagement Levels",
+      "body1": "Feedzai testimonial strong signal,",
+      "body2": "social engagement metrics limited",
+      "q": "What level of engagement are you seeing across all of your channels?",
+      "h4": "Real client engagement is evident; social reach is early stage",
+      "p": [
+        "On LinkedIn, your post comparing NetSuite and Microsoft Dynamics received nine reactions and one comment, which is the only specific engagement figure available from your LinkedIn activity in this research. Your post promoting the ERP ON TAP event does not have visible engagement figures in what was found during this research.",
+        "The ERP ON TAP event co-hosted with Tenth Revolution Group represents a real-world engagement channel that would reach an audience of ERP professionals and technology buyers. Tenth Revolution Group is a well-known technology recruitment and staffing firm with a large network in the ERP market, making this co-hosting relationship a meaningful signal of engagement in the relevant community.",
+        "The WiredScore case study on your website (coras-consulting.com/about-us) and the client logos shown on the homepage demonstrate real client engagement with recognisable businesses. The Feedzai testimonial in your sales deck from a VP-level buyer is evidence of engagement with the right seniority of client (Solution Playback Deck, slide 8). No metrics around website traffic, blog readership, or calculator usage are publicly visible."
+      ]
+    },
+    {
+      "label": "5",
+      "title": "Funnel Entry Points",
+      "body1": "Calculator and contact form available,",
+      "body2": "no self-serve entry product visible",
+      "q": "Are there relevant and publicly available touch points for prospects to engage with to fall into your sales funnel?",
+      "h4": "Touch points exist but require prospects to be ready to make contact",
+      "p": [
+        "Your website provides several points of engagement. The NetSuite pricing calculator is a practical tool that prompts a prospect to provide their name, business name, country, turnover range, and email address in exchange for a licence cost estimate (coras-consulting.com/netsuite-pricing-calculator). This is a functional lead capture mechanism. The website also has a contact form, though its prominence and placement within individual service pages is limited (coras-consulting.com).",
+        "Your LinkedIn profile is publicly visible and includes your role and a positioning statement, which gives prospects a route to connect or message you directly (linkedin.com/in/eoin-holohan-815360173). The ERP ON TAP event referenced in your LinkedIn post represents an in-person touchpoint where prospects could encounter you and initiate a conversation.",
+        "What is not yet present is a publicly available first-step product or offer that a prospect can act on independently, without first initiating contact. The Transformation Accelerator, which is your most concrete entry-point offer, is not visible on the website. There are no downloadable guides, sample reports, or gated content assets that would allow a prospect to self-qualify and enter your funnel without a direct conversation. The current touchpoints are available but require the prospect to be ready to make contact rather than allowing them to engage and learn at their own pace before reaching out."
+      ]
+    }
+  ],
+  "password": "Corasconsulting2026"
+}
