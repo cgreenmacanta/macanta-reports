@@ -1,0 +1,355 @@
+{
+  "company_name": "TenderAlpha",
+  "icp_rag": "amber",
+  "prod_rag": "amber",
+  "sales_rag": "red",
+  "coll_rag": "amber",
+  "mc_rag": "amber",
+  "exec_summary": "Martin, you have a genuinely strong data asset and credibility signals that many businesses at your stage would envy, including a citation in The Economist and a sponsorship at SOHN New York 2025, but your website and commercial presence do not yet communicate clearly who your primary buyer is or why they should start a conversation with you today. Your sales infrastructure is at an early stage: no named selling methodology, a partially developed pain point discovery process, and no publicly visible buying journey for a prospect to follow, which means two thirds of your revenue relying on channel partners has not yet been stress-tested by a consistent direct sales motion. The commercial team members visible externally carry backgrounds in content marketing and general business development rather than quantitative finance or hedge fund sales, which will create a credibility gap as you build direct teams in the UK and the US. The raw materials for a strong commercial engine are present, but resolving the ICP question, building a structured entry point for new direct customers, and introducing a sales methodology before you scale will be essential to making that engine work.",
+  "focus": [
+    {
+      "h4": "Resolve your ICP before you build your sales team",
+      "p": "Your website currently presents four distinct use cases to four different buyer types without signalling which customer you are primarily focused on winning. Before hiring commercial teams in the UK and the US, you need a clear answer to the ICP question you have identified yourself: hedge funds or corporate procurement. The answer determines who you hire, how you sell, and what your collateral says."
+    },
+    {
+      "h4": "Build a structured entry point for new direct customers",
+      "p": "You have no publicly visible low-barrier starting point for a new direct customer to evaluate your data. Competitors in the alternative data space typically offer sample datasets, trial access or a clearly scoped introductory product, but your website defaults to a meeting request across every page. Given that your direct sales revenue is currently $1 million USD against $2 million from partners, creating a structured, low-friction entry point would support both direct acquisition and partner-led conversion."
+    },
+    {
+      "h4": "Introduce a sales methodology before you scale the team",
+      "p": "You have reported that you do not currently use a named selling methodology and that your process for uncovering customer pain points is only partially developed. Bringing on additional salespeople in new geographies without a defined process means each person will sell differently, making it very difficult to diagnose what is working and what is not. Establishing a structured discovery and qualification process now, before the team grows, will make onboarding faster and performance measurement more reliable."
+    }
+  ],
+  "icp_data": [
+    {
+      "label": "1",
+      "title": "Customer Clarity",
+      "body1": "Multiple buyer types presented in parallel,",
+      "body2": "no primary customer clearly signalled",
+      "q": "Is it clear who your ideal customers are from your online presence?",
+      "h4": "Four use cases, four buyer types, no clear priority",
+      "p": [
+        "Your website presents at least four distinct customer types across its use-case pages: investment researchers and hedge funds (tenderalpha.com/unlocking-alpha-in-government-contracts), sales and business development teams (tenderalpha.com/use-cases/sales), sourcing and procurement professionals (tenderalpha.com/use-cases/sourcing), and supply chain analysts (tenderalpha.com/use-cases/supply-chain-analysis). Each page addresses a different type of buyer with different workflows and priorities. No single page or section of the website makes clear which of these is your primary or preferred customer.",
+        "The homepage describes TenderAlpha as a platform that unifies government contracts, trade flows, corporate data, and supply chain intelligence into one global market intelligence platform (tenderalpha.com). This is a capability description rather than a customer-oriented statement. A first-time visitor cannot easily determine from this language whether the product is primarily built for financial professionals, procurement teams or sales organisations.",
+        "Your LinkedIn company page carries the hashtags G2B, supply chain intelligence and market intelligence, and a post from June 2026 references a G2B Sales Pulse newsletter. Your co-founder's LinkedIn profile describes the product as specifically designated for investment research (bg.linkedin.com/in/martin-tsanov-75998997). These two signals point in somewhat different directions. The FactSet marketplace listing positions the product within a financial data context, which aligns with the hedge fund buyer, while Slashdot comparison pages position TenderAlpha alongside construction procurement software, which is a different buyer profile entirely. Taken together, the external picture of who your ideal customer is remains unclear to a first-time visitor."
+      ]
+    },
+    {
+      "label": "2",
+      "title": "Problem Depth",
+      "body1": "Investment research content is most developed,",
+      "body2": "other buyer problems less specific",
+      "q": "Do you understand deeply the business challenges your customers are trying to solve?",
+      "h4": "Strongest problem depth for investment buyers, thinner for others",
+      "p": [
+        "Your use-case pages address specific workflows in reasonable detail. The sales intelligence page (tenderalpha.com/use-cases/sales) describes how buyers can identify buyers, track government and B2B contract activity and prioritise accounts using ticker-mapped transactional data across 60-plus countries. The sourcing page (tenderalpha.com/use-cases/sourcing) describes validating internal cost estimates against external pricing data to identify situations where vendor quotes are out of line with market realities. These descriptions go beyond a surface-level statement of capability and acknowledge a real operational problem.",
+        "The investment research content goes further. The page Unlocking Alpha in Government Contracts (tenderalpha.com/unlocking-alpha-in-government-contracts) engages with the analytical challenge faced by quantitative researchers looking for non-consensus signals. The blog entry on AWS government contract contribution (tenderalpha.com/how-much-do-government-contracts-contribute-to-amazon-web-services-growth) shows the product applied to a specific analytical question. These examples demonstrate awareness of the investment research buyer's workflow and decision context.",
+        "However, the depth of problem understanding is inconsistent across buyer types. The investment research content is the most developed. The corporate procurement and supply chain use cases are described in more general terms, without the same level of specificity about the buyer's situation. Across all use cases, the content does not explicitly address the commercial cost of not solving the problem, nor does it articulate why a buyer would choose TenderAlpha over alternative data sources or incumbents. The testimonial on the homepage (tenderalpha.com) is a credibility signal but does not name the speaker, their role or their firm."
+      ]
+    },
+    {
+      "label": "3",
+      "title": "Team Alignment",
+      "body1": "Co-founder targets investment buyers,",
+      "body2": "marketing team profiles less focused",
+      "q": "Are your sales and marketing teams aligned around the same customer?",
+      "h4": "Co-founder and marketing team point in different directions publicly",
+      "p": [
+        "Your co-founder's LinkedIn profile (bg.linkedin.com/in/martin-tsanov-75998997) describes TenderAlpha as a global government procurement contract awards data product specifically designated for investment research, which positions the product firmly for a hedge fund or quantitative investment buyer. A LinkedIn post from your profile in June 2026 promotes a blog article on Micron Technology's B2B supply chain data signals, which is consistent with an investment research audience. A further post references TenderAlpha's appearance as an Innovator Sponsor at SOHN New York 2025, a conference focused on alternative data and investment ideas, which reinforces that framing.",
+        "Kalina Stancheva, listed as Marketing and Business Development at TenderAlpha (bg.linkedin.com/in/kalina-stancheva-7ba7b6196), describes herself as an experienced content marketing enthusiast with a passion for the arts and a demonstrated history of working in the content marketing industry. Her prior roles include a five-month stint as a staffing account executive and a brief assistant role, with no visible sector specialisation in financial data, investment research or procurement. Her profile does not publicly reference the hedge fund or alternative data market.",
+        "Daiana Danova (linkedin.com/in/daianadanova) describes TenderAlpha as offering G2B and B2B transactional data, next to corporate data, to support a range of use cases, without specifying a primary customer type. The company LinkedIn page's available posts mix investment research content with broader G2B supply chain themes. The signals from your own profile point most clearly toward the investment buyer, while the marketing and business development team's public-facing profiles do not reflect the same focused positioning."
+      ]
+    },
+    {
+      "label": "4",
+      "title": "Commercial Credibility",
+      "body1": "Team backgrounds in content marketing,",
+      "body2": "no domain credibility with target buyers",
+      "q": "Do you hire commercial people who can build credibility with your buyers?",
+      "h4": "Commercial team backgrounds do not match the target buyer profile",
+      "p": [
+        "The commercial team members visible externally do not carry backgrounds that would immediately establish credibility with a quantitative hedge fund portfolio manager or a senior procurement director at a large corporation. These are the two buyer profiles implied by your current customer base and stated expansion plans.",
+        "Kalina Stancheva (bg.linkedin.com/in/kalina-stancheva-7ba7b6196) is described as a content marketing professional. Her work history includes roles in content marketing and a brief period as a staffing account executive in London, with no visible experience in financial data sales, alternative data, or investment research. Daiana Danova (linkedin.com/in/daianadanova) is described as being in business development at TenderAlpha, but her profile does not indicate sector-specific experience in either hedge fund sales or enterprise procurement. Petar Terziev (bg.linkedin.com/in/petar-terziev-432aa580) is an AI engineer and research analyst, which is a technical rather than commercial role.",
+        "You have described your ambition to build direct sales teams in the UK and the US. The buyers in those markets, whether hedge fund analysts evaluating alternative data vendors or procurement directors at large corporates, will expect to engage with salespeople who understand their world. No current commercial team member's publicly visible background suggests they could walk into a hedge fund's offices and speak credibly about quantitative research workflows, or sit in front of a head of procurement and discuss sourcing strategy from first-hand experience. This does not mean the current team lacks value. It does mean that the commercial profile of the team, as visible externally, does not yet match the seniority or domain experience of the buyers you are targeting."
+      ]
+    },
+    {
+      "label": "5",
+      "title": "Geographic Focus",
+      "body1": "Data covers 60-plus countries,",
+      "body2": "no local commercial presence confirmed",
+      "q": "Do you have a targeted approach for each market and geography you sell into?",
+      "h4": "Data coverage is global but commercial presence is not yet localised",
+      "p": [
+        "Your website states that your data covers 60-plus countries (tenderalpha.com homepage) and your solutions reference specific geographies including the US subcontracting market (tenderalpha.com/solutions). However, the website does not describe any geographic-specific commercial strategy, office locations or local market focus. There is no page, section or statement on the website that explains how TenderAlpha serves the UK market, the US market or any other geography from a commercial standpoint.",
+        "Your team members' LinkedIn profiles confirm a Bulgaria-based operation. Your co-founder profile (bg.linkedin.com/in/martin-tsanov-75998997) lists Bulgaria as a location. Kalina Stancheva's profile references the London area in connection with a prior role, not a current position. No team member is publicly confirmed as being based in the UK or the US.",
+        "The SOHN New York 2025 sponsorship (LinkedIn post, company page) confirms physical event attendance in the United States, which is a meaningful signal of market engagement. The FactSet marketplace listing positions the product within US financial data infrastructure. However, these are presence signals rather than evidence of a structured, localised commercial approach in either market. You have stated that building teams in the UK and the US is your biggest current opportunity. As of this assessment, no public-facing evidence of that presence exists: no office address, no locally-based commercial team members, and no market-specific content tailored to UK or US buyer expectations or regulatory context."
+      ]
+    }
+  ],
+  "prod_data": [
+    {
+      "label": "1",
+      "title": "Proposition Clarity",
+      "body1": "Scope is clear, but buyer outcome",
+      "body2": "and purpose are not immediately obvious",
+      "q": "Can your proposition be quickly and easily understood?",
+      "h4": "Capability is described clearly but the buyer outcome is not",
+      "p": [
+        "Your homepage opens with the statement: TenderAlpha unifies government contracts, trade flows, corporate data, and supply chain intelligence into one global market intelligence platform (tenderalpha.com). This can be read in under ten seconds. It communicates scope clearly. It does not, however, tell a buyer what they would use it for or why it would matter to them. The opening line describes the product's architecture rather than the outcome it delivers.",
+        "The solutions menu lists six named product categories: Global Government Contracts, Receivables and Obligations Data, Green Government Contracts Data, US Subcontracting Data, Open Tenders and Daily Macro Government Contracting (tenderalpha.com/solutions). These are named in a way that is intelligible to a specialist buyer, though a non-specialist encountering the product for the first time would need to do some work to understand which product is relevant to them and why.",
+        "The Daily Macro Government Contracting page (tenderalpha.com/solutions/daily-macro-government-contracting) states that it allows users to monitor public spending per country in real time, which is clear. The FactSet marketplace listing (factset.com/marketplace/catalog/product/tenderalpha) provides a concise description: standardised information on approximately 80 million contract awards and related private and public company data from 40-plus countries, which is a cleaner summary than anything on your own homepage. The proposition is intelligible to an informed buyer but requires more effort than it should from a first-time visitor."
+      ]
+    },
+    {
+      "label": "2",
+      "title": "Problem Definition",
+      "body1": "Use-case pages are functional,",
+      "body2": "but impact of inaction is not stated",
+      "q": "Do your products solve clearly defined customer problems?",
+      "h4": "Problems are named but the cost of inaction is absent",
+      "p": [
+        "Your use-case pages go some way toward connecting the data product to a real customer problem. The sourcing intelligence page (tenderalpha.com/use-cases/sourcing) specifically addresses the problem of vendor quotes being out of line with market realities and describes how external pricing data can validate internal cost estimates. This is a concrete and recognisable procurement challenge.",
+        "The sales intelligence page (tenderalpha.com/use-cases/sales) describes identifying buyers, tracking contract activity and prioritising accounts. The investment research content on the unlocking alpha page (tenderalpha.com/unlocking-alpha-in-government-contracts) frames the product around quantitative research and non-consensus signal generation. The AWS contracts analysis (tenderalpha.com/how-much-do-government-contracts-contribute-to-amazon-web-services-growth) shows the data applied to a specific company analytical question.",
+        "However, none of these pages articulates the cost to a buyer of not solving the problem. There is no statement of what a hedge fund loses by not having access to government contract flow data, or what a procurement team risks by sourcing without external market pricing. The problem descriptions stay at a functional level rather than making the business impact explicit. The unnamed testimonial on the homepage (tenderalpha.com) speaks to product uniqueness but does not describe a problem solved in terms a buyer would use themselves. Across the site, the product descriptions are technically accurate but do not consistently present problems in the buyer's language."
+      ]
+    },
+    {
+      "label": "3",
+      "title": "Entry Point",
+      "body1": "All calls to action require a meeting,",
+      "body2": "no self-serve evaluation path visible",
+      "q": "Is there a clear jumping off point for new customers?",
+      "h4": "No sample data or low-friction evaluation route is available",
+      "p": [
+        "Your website includes calls to action on multiple pages, but these are limited to two options: Request a Demo and Talk to Our Team or Contact Us. This pattern appears on the daily macro government contracting page (tenderalpha.com/solutions/daily-macro-government-contracting), the sourcing use case page (tenderalpha.com/use-cases/sourcing), the sales use case page (tenderalpha.com/use-cases/sales), the supply chain page (tenderalpha.com/use-cases/supply-chain-analysis) and the platform page (tenderalpha.com/platform).",
+        "For a data product vendor operating in the alternative data space, the expected low-barrier entry points are sample datasets, free data trials gated by contact details, or a clearly scoped introductory product. None of these is publicly visible on your website. The data testing guidelines page (tenderalpha.com/tenderalpha-data-testing-guidelines-unified-global-government-contracts-feed) references a testing process but does not describe a self-serve or low-friction sample access route that a new buyer could initiate without a conversation.",
+        "The Snowflake marketplace listing (app.snowflake.com/marketplace/listing/GZU6Z5NIRPQ/tenderalpha-global-government-contracts-data) and the FactSet marketplace listing (factset.com/marketplace/catalog/product/tenderalpha) both represent distribution channels that carry their own access mechanisms, but these are partner-mediated rather than direct buyer-initiated. A first-time visitor to tenderalpha.com has no way to begin evaluating the data without first requesting a meeting."
+      ]
+    },
+    {
+      "label": "4",
+      "title": "Upsell Path",
+      "body1": "Multiple products exist,",
+      "body2": "but upgrade path is not made explicit",
+      "q": "Do you have clear upsell and cross-sell opportunities within your offering?",
+      "h4": "Product breadth is visible but the path from entry to expansion is not",
+      "p": [
+        "Your solutions page (tenderalpha.com/solutions) lists six distinct named products within the government contracts data category alone, plus separate categories for trade flows, corporate data and supply chain data. This breadth indicates that a customer beginning with one product has a visible range of related products available to them.",
+        "The solutions architecture description references a unified platform combining government contracting data, global trade flows, and supply chain intelligence, which implies that the products are designed to work together. The data dictionaries and schema reference page (tenderalpha.com/documentation) references multiple distinct feeds including unified global contracts, trade flows and supply chain data, each with their own schema, confirming that multiple subscribable data products exist.",
+        "However, the website does not present a clear package structure showing what a customer buys first, what they add next, and at what value threshold. There are no named tiers, bundles or upgrade paths described in customer-facing language. The path from a first purchase to an expanded relationship is implied by the product range but not made explicit anywhere on the site."
+      ]
+    },
+    {
+      "label": "5",
+      "title": "Pricing Alignment",
+      "body1": "No pricing visible anywhere,",
+      "body2": "value not connected to commercial terms",
+      "q": "Is your pricing aligned to the value you create?",
+      "h4": "No pricing is publicly available and no value-to-cost connection is made",
+      "p": [
+        "No pricing information is publicly available on your website. Across all pages reviewed, including the homepage (tenderalpha.com), the solutions page (tenderalpha.com/solutions), individual product pages and use-case pages, no pricing, price ranges, indicative costs or subscription tiers are mentioned.",
+        "The calls to action across the site, which default to Request a Demo and Talk to Our Team, indicate that pricing is handled through direct conversation rather than published information. This is common in the B2B data industry, particularly for enterprise-grade products, and is not an unusual choice. However, it does mean that a buyer cannot self-assess affordability before entering a conversation, and no public-facing statement connects the product's specific value propositions to a commercial rationale.",
+        "The Snowflake marketplace listing (app.snowflake.com/marketplace/listing/GZU6Z5NIRPQ/tenderalpha-global-government-contracts-data) and the FactSet marketplace listing (factset.com/marketplace/catalog/product/tenderalpha) may carry their own pricing frameworks through those platforms, but no pricing is visible in the research for either. The unique value of the data asset is described on the website in capability terms, but no connection is drawn between that value and any commercial framework a buyer could use to evaluate return on investment."
+      ]
+    }
+  ],
+  "sales_data": [
+    {
+      "label": "1",
+      "title": "Process Visibility",
+      "body1": "No buying journey described,",
+      "body2": "all pages end with a meeting request",
+      "q": "Does your sales process have a clear beginning, middle and end?",
+      "h4": "No publicly visible buying journey exists for a prospect to follow",
+      "p": [
+        "No description of a buying or sales process is publicly visible on your website or in any collateral found in the research. Across all pages reviewed, including the homepage (tenderalpha.com), the platform page (tenderalpha.com/platform), the solutions page (tenderalpha.com/solutions) and individual use-case pages, there is no step-by-step guide, process diagram or written description of how a new customer would move from initial interest to a signed data agreement.",
+        "The data testing guidelines page (tenderalpha.com/tenderalpha-data-testing-guidelines-unified-global-government-contracts-feed) references a data testing process, which implies there is a structured evaluation phase. However, this page is technical in nature and does not present the broader buying journey in a way a prospect could follow before they engage.",
+        "The calls to action across the site all point to Request a Demo, Talk to Our Team or Contact Us. A buyer landing on your website cannot determine what happens after they request a demo, how long an evaluation typically takes, or what success looks like before they commit. The platform sign-up option referenced on tenderalpha.com/platform is the only hint of a self-directed path, but no detail about what that sign-up involves or where it leads is available in the research."
+      ]
+    },
+    {
+      "label": "2",
+      "title": "Buyer Centricity",
+      "body1": "Process favours conversation initiation,",
+      "body2": "not the buyer's evaluation journey",
+      "q": "Is your sales process designed around how customers buy rather than how you prefer to sell?",
+      "h4": "The commercial structure is built around your preferred entry point, not the buyer's process",
+      "p": [
+        "For a hedge fund or quantitative research team evaluating an alternative data product, the typical buying journey involves a self-directed discovery phase, access to sample or trial data, an internal technical evaluation, a period of testing against existing signals, and then a procurement decision that may involve a data committee or chief investment officer sign-off. This process can take several weeks to several months and is often initiated without any direct sales contact.",
+        "Your website does not support this buying pattern. There is no sample data access, no trial period described, no technical evaluation guide and no indication of how a prospective buyer would manage an internal evaluation of your data. Every entry point on the site, including those on the solutions pages (tenderalpha.com/solutions), the use-case pages and the platform page (tenderalpha.com/platform), leads to a meeting request rather than a self-serve evaluation path.",
+        "For the corporate procurement or sales intelligence buyer, the buying journey typically involves a clear demonstration of the product against a specific use case, a scoped proof of concept, and sign-off from a procurement or IT function. Again, no content on the website addresses this process or explains how TenderAlpha would support a buyer through it. The data testing guidelines page (tenderalpha.com/tenderalpha-data-testing-guidelines-unified-global-government-contracts-feed) is the one page that begins to address technical evaluation, but it is not framed around the buyer's process or timeline."
+      ]
+    },
+    {
+      "label": "3",
+      "title": "Team Alignment",
+      "body1": "Pain point process is partial,",
+      "body2": "no shared discovery approach confirmed",
+      "q": "Is your team aligned around the same sales process?",
+      "h4": "A shared sales process is not yet embedded across the commercial team",
+      "p": [
+        "The form response rates internal buying process clarity at 4 out of 10 and reports that the process for uncovering customer pain points is only partially developed. No specific description of a sales process, qualification framework or discovery approach was provided through the form. Nothing in the publicly available research, including team LinkedIn profiles or any collateral, describes a shared sales process that members of the commercial team follow.",
+        "Information on whether the team actively uses a defined discovery process or shared methodology was neither provided directly through the form, nor is publicly visible. Given the form's own description of the current state, partial pain point discovery and a mid-range internal process score, the picture is one of a process that is in development rather than embedded and consistently applied."
+      ]
+    },
+    {
+      "label": "4",
+      "title": "Repeatability",
+      "body1": "No documented process visible,",
+      "body2": "direct sales not yet tested at scale",
+      "q": "Is your sales process repeatable across the business?",
+      "h4": "A repeatable process has not yet been established or made visible",
+      "p": [
+        "No evidence of a documented, repeatable sales process is visible from the website, from team LinkedIn profiles or from the collateral reviewed. The form confirms the sales process is at an early stage of establishment. With two thirds of current revenue flowing through channel partners and direct sales accounting for $1 million USD, the direct sales motion has not yet been tested at scale across multiple salespeople or geographies.",
+        "The commercial team members identified externally, Kalina Stancheva (bg.linkedin.com/in/kalina-stancheva-7ba7b6196) and Daiana Danova (linkedin.com/in/daianadanova), do not describe a common methodology or process in their publicly visible profiles. The stated ambition to build sales teams in the UK and the US means that repeatability will become urgent as headcount grows, but information on whether a replicable process currently exists was neither provided directly through the form, nor is publicly visible."
+      ]
+    },
+    {
+      "label": "5",
+      "title": "Sales Methodology",
+      "body1": "No named selling methodology",
+      "body2": "is currently in use",
+      "q": "Do you use a particular selling system or methodology?",
+      "h4": "No selling methodology is in use",
+      "p": [
+        "The form response to this question was No. No named selling methodology is in use."
+      ]
+    }
+  ],
+  "coll_data": [
+    {
+      "label": "1",
+      "title": "Collateral Targeting",
+      "body1": "Investment research content is strongest,",
+      "body2": "other buyer types less well served",
+      "q": "How targeted towards your ideal customer is your publicly available collateral?",
+      "h4": "Investment research collateral is the most developed; other segments are thinner",
+      "p": [
+        "Your website hosts a blog (tenderalpha.com/blog) and a series of analytical articles that engage with specific investment and market intelligence topics. Pages include an analysis of how much of AWS's growth comes from public contracts (tenderalpha.com/how-much-do-government-contracts-contribute-to-amazon-web-services-growth), an analysis of McKesson guidance linked to pharmaceutical contracts (tenderalpha.com/mckesson-top-and-bottom-line-guidance-boosted-on-strength-in-u-s-pharmaceutical-and-prescription-technology-solutions-segments) and an analysis of Jacobs Solutions' financial performance (tenderalpha.com/jacobs-solutions-strong-underlying-performance-offsetting-floating-rate-headwinds). These articles apply government contract data to public company analysis in a way that is directly relevant to an equity or credit research audience.",
+        "The blog page is listed on RSS aggregators with the description Latest news on TenderAlpha (rss.feedspot.com/tender_rss_feeds), and the blog content that is visible is substantive rather than generic. A LinkedIn post from August 2026 references TenderAlpha's appearance in The Economist in connection with allied government supply chain dependence on American suppliers, which is a high-credibility editorial endorsement.",
+        "However, the use-case pages (tenderalpha.com/use-cases) address four different buyer types in parallel without prioritising any one of them, and the calls to action across all collateral collapse into Request a Demo or Talk to Our Team with no buyer-specific framing. The collateral is more developed for the investment research buyer than for the procurement or sales intelligence buyer, but does not consistently maintain that focus throughout."
+      ]
+    },
+    {
+      "label": "2",
+      "title": "Direct Collateral",
+      "body1": "No private collateral provided,",
+      "body2": "public materials assessed only",
+      "q": "How targeted towards your ideal customer is the pitch deck or collateral you shared directly with us?",
+      "h4": "No private collateral was provided; public materials are partially targeted",
+      "p": [
+        "No private collateral was provided by the prospect. This assessment is based on publicly available materials only.",
+        "The most substantial collateral available publicly consists of the analytical blog content on the TenderAlpha website and the use-case pages. The investment research-oriented content, including the AWS contracts analysis (tenderalpha.com/how-much-do-government-contracts-contribute-to-amazon-web-services-growth), the McKesson article and the Jacobs Solutions piece, applies government contract data to named public companies in a way that an equity analyst or hedge fund researcher would find directly relevant. This content demonstrates the product's analytical application in context.",
+        "The Unlocking Alpha in Government Contracts page (tenderalpha.com/unlocking-alpha-in-government-contracts) engages with quantitative research themes and serves as a positioning document for the investment research use case. The FactSet marketplace listing (factset.com/marketplace/catalog/product/tenderalpha) provides a compact, credible description of the product within a recognised financial data distribution context. These assets are relevant to the investment research buyer but incomplete as a sales toolkit: no named client case studies with attributed outcomes, no structured product one-pager, and no document walking a prospect from problem to solution to commercial terms."
+      ]
+    },
+    {
+      "label": "3",
+      "title": "Revenue Support",
+      "body1": "Content demonstrates data value,",
+      "body2": "calls to action are generic throughout",
+      "q": "Does every asset support revenue generation rather than simply provide information?",
+      "h4": "Content informs well but does not consistently convert",
+      "p": [
+        "The blog and analytical content on your website (tenderalpha.com/blog) is substantive and demonstrates the value of your data through applied analysis. The AWS contracts piece, the McKesson article and the Jacobs Solutions analysis all show the product in use and could plausibly convince a reader that the data has investment relevance. In this sense they support the sales case indirectly.",
+        "However, the calls to action embedded in these assets are generic. The daily macro government contracting page (tenderalpha.com/solutions/daily-macro-government-contracting) ends with Connect with our team to explore how TenderAlpha can transform your insights. Contact Us. This is the same phrase used across multiple pages. There is no differentiation by buyer type, no stage-specific next step, and no mechanism for a reader to progress at their own pace.",
+        "Your co-founder's LinkedIn post in June 2026, promoting the Micron Technology B2B supply chain analysis, received 23 reactions and links back to the TenderAlpha website, which does create a funnel entry point. This is one of the clearer examples of content driving traffic with a commercial destination. The LinkedIn post from August 2026 announcing The Economist feature does not include a link to a product page or a clear call to action beyond the general tenderalpha.com URL. Elsewhere, the assets inform more than they convert."
+      ]
+    },
+    {
+      "label": "4",
+      "title": "Market Localisation",
+      "body1": "No UK or US-specific collateral found,",
+      "body2": "geography refers to data coverage only",
+      "q": "How localised is your collateral towards your target markets?",
+      "h4": "No collateral is localised to the UK or US commercial markets",
+      "p": [
+        "No collateral found in the research is specifically tailored to the UK or US market. The website does not contain any pages, articles or sections that address UK or US buyer expectations, regulatory context, procurement norms or investment market conventions in a localised way. The geographic scope described throughout the site refers to data coverage, meaning the countries from which government contract data is sourced, rather than the commercial markets in which TenderAlpha operates.",
+        "The US subcontracting data product (tenderalpha.com/solutions) is a US-specific data product, but its presence reflects what the data covers rather than a US-localised commercial approach. The SOHN New York 2025 sponsorship confirms physical attendance in the US, and the FactSet marketplace listing positions the product within US financial data distribution, but neither constitutes a piece of US-localised commercial collateral.",
+        "The blog content is written in English and is broadly international in framing. No UK-specific case studies, US-specific buyer examples, or market-localised use cases were found in the research. The Economist citation (LinkedIn post, August 2026) references allied government supply chain dependence, which has US and UK relevance, but this is an editorial placement rather than a deliberate piece of localised collateral."
+      ]
+    },
+    {
+      "label": "5",
+      "title": "Message Consistency",
+      "body1": "Investment framing is consistent,",
+      "body2": "competing messages dilute it elsewhere",
+      "q": "Is your messaging consistent across presentations, proposals and marketing materials?",
+      "h4": "Investment research messaging is present but competes with other framings",
+      "p": [
+        "The investment research framing is the most consistent thread visible across your commercial materials. Your co-founder's LinkedIn profile describes the product as built for investment research. The Unlocking Alpha in Government Contracts page uses investment language throughout. The SOHN New York 2025 sponsorship connects the brand to the alternative data investment community. The Economist citation reinforces the credibility of the data in a financial context. These are consistent signals pointing in the same direction.",
+        "However, the website simultaneously presents sourcing, procurement and sales intelligence use cases in parallel with the investment research content, using broadly similar language and the same generic calls to action. The company LinkedIn page posts use hashtags including G2B, supply chain intelligence and market intelligence rather than investment-specific terms. The Daiana Danova LinkedIn profile (linkedin.com/in/daianadanova) describes the product as supporting G2B and B2B transactional data use cases broadly, without specifying the investment research context.",
+        "The result is that the investment research message is present but competes with other framings across the site and team profiles. A buyer encountering TenderAlpha through the SOHN conference would receive a different impression than a buyer arriving via the sourcing use-case page. The blog's applied company analysis content is consistent with an investment audience, but the broader commercial presence does not yet maintain that consistency end to end."
+      ]
+    }
+  ],
+  "mc_data": [
+    {
+      "label": "1",
+      "title": "Channel Mix",
+      "body1": "Event presence and data marketplaces",
+      "body2": "are the strongest channel assets",
+      "q": "Are you leveraging the most appropriate channels to reach your ideal customers?",
+      "h4": "Event and marketplace channels are well chosen but not yet complete",
+      "p": [
+        "The clearest channel evidence is your sponsorship at SOHN New York 2025, confirmed through a LinkedIn post from BattleFin, which co-hosted the event and announced TenderAlpha as an Innovator Sponsor. SOHN New York is a prominent event for hedge funds and alternative data buyers, and your presence there is a strong signal of channel relevance for the investment research segment.",
+        "Your LinkedIn company page has posted recently, with the August 2026 post on The Economist feature and the June 2026 G2B Sales Pulse post both visible. Your co-founder's LinkedIn activity includes posts on Micron Technology's supply chain signals and a link to the TenderAlpha blog, both of which are relevant to an investment audience. The FactSet marketplace listing (factset.com/marketplace/catalog/product/tenderalpha) and the Snowflake marketplace listing (app.snowflake.com/marketplace/listing/GZU6Z5NIRPQ/tenderalpha-global-government-contracts-data) represent distribution channels used by financial data buyers and data engineers respectively, which are appropriate for the product category.",
+        "The blog (tenderalpha.com/blog) is listed on RSS aggregators and produces substantive investment-adjacent content. No YouTube channel attributable to TenderAlpha was found in the research. No podcast appearances by TenderAlpha team members were found. For an alternative data business targeting hedge funds in the UK and the US, podcasts, data-focused conference panels and investment-community newsletters would be relevant channels. These are either absent or not visible in the available research."
+      ]
+    },
+    {
+      "label": "2",
+      "title": "Leadership Visibility",
+      "body1": "Co-founder is findable and credible,",
+      "body2": "team depth and story are limited",
+      "q": "How much of a clear picture can a prospect develop of your business and your leadership before they reach out?",
+      "h4": "Co-founder presence is established but the broader leadership picture is thin",
+      "p": [
+        "Your co-founder's LinkedIn profile (bg.linkedin.com/in/martin-tsanov-75998997) is publicly findable and describes TenderAlpha directly, positioning it as a government procurement data product for investment research. It has 500-plus connections, which indicates an active and reasonably established presence. The profile confirms the BizPortal parent entity and provides context for the platform's origins.",
+        "The company LinkedIn page is findable and has posted recently, including a notable post on The Economist feature (August 2026) and content on the G2B Sales Pulse newsletter (June 2026). These posts give a prospective buyer a sense of the product's analytical focus and its credibility with investment media. The website (tenderalpha.com) provides product descriptions, use-case pages and blog content, all of which are available before any sales interaction. The FactSet and Snowflake marketplace listings provide third-party confirmation of the product's existence and positioning within recognised data distribution platforms.",
+        "However, the leadership picture is incomplete. No About Us page content available in the research describes the founding story, the team's backgrounds or the rationale behind the product. Vladimir Kuzmov is identified as co-founder and CTO (bg.linkedin.com/in/vladimir-kuzmov-95822b83) but his profile describes TenderAlpha as a product of Bizportal.co without providing depth on the team's domain expertise. A prospect doing their pre-meeting research would find a functional product description and some credibility signals, but a limited human picture of who leads the business and why they built it."
+      ]
+    },
+    {
+      "label": "3",
+      "title": "Campaign Execution",
+      "body1": "Content threads exist across channels,",
+      "body2": "but coordination is not yet systematic",
+      "q": "How well are you executing multi-channel campaigns driving clarity of message, continuity of story and purpose of the business?",
+      "h4": "Individual content assets are active but not yet operating as a coordinated campaign",
+      "p": [
+        "The clearest evidence of a multi-channel content approach is the G2B Sales Pulse newsletter referenced in a June 2026 LinkedIn post (linkedin.com/posts/tenderalpha). This suggests a regular content series that connects LinkedIn activity to blog or newsletter content on the TenderAlpha website. Your co-founder's LinkedIn post on Micron Technology's supply chain data signals, which received 23 reactions in June 2026, links directly to a TenderAlpha blog article, creating a traceable content journey from LinkedIn to the website.",
+        "The Economist feature (August 2026) represents a high-credibility third-party endorsement and was promoted on the LinkedIn company page. This is a strong content asset used across at least one channel.",
+        "However, continuity across channels is inconsistent. The investment research framing that is clear in the SOHN sponsorship, the Economist citation and your co-founder's personal posts competes with the broader G2B and supply chain framing on the company LinkedIn page and the website's parallel use-case pages. There is no evidence of a coordinated campaign structure where content on the blog, posts by team members, external media appearances and event sponsorships all carry the same message at the same time toward the same buyer. The channels are active but not yet operating as a coordinated system."
+      ]
+    },
+    {
+      "label": "4",
+      "title": "Channel Engagement",
+      "body1": "Economist citation and SOHN presence",
+      "body2": "are the strongest engagement signals",
+      "q": "What level of engagement are you seeing across all of your channels?",
+      "h4": "Strong qualitative signals but limited quantitative visibility across channels",
+      "p": [
+        "The most concrete engagement signal available is your co-founder's LinkedIn post on Micron Technology's B2B supply chain data signals, which received 23 reactions in June 2026. The LinkedIn company page post on The Economist feature (August 2026) confirms that a global business publication with a financially sophisticated readership found the data credible enough to cite directly in a published piece on allied government supply chain dependence. This is a qualitative engagement signal of significant weight.",
+        "The SOHN New York 2025 sponsorship, confirmed through the BattleFin LinkedIn post, represents physical event engagement within the alternative data investment community, a small and specialist audience where in-person presence carries disproportionate weight. The blog is listed on RSS aggregator feeds (rss.feedspot.com/tender_rss_feeds), which implies the content has been indexed and distributed beyond the website itself. A LinkedIn post by David Lovell in November 2025, referencing a TenderAlpha blog article on government revenue strategy, shows the blog content being shared by people outside the company, which is an additional engagement signal.",
+        "No quantitative data on blog readership, LinkedIn follower counts or newsletter subscriber numbers is available in the research. No YouTube channel attributable to TenderAlpha was found. The engagement picture is partially visible and contains some genuinely strong signals, but the overall picture across channels is incomplete."
+      ]
+    },
+    {
+      "label": "5",
+      "title": "Funnel Entry Points",
+      "body1": "Multiple touchpoints exist,",
+      "body2": "but all require a meeting to progress",
+      "q": "Are there relevant and publicly available touch points for prospects to engage with to fall into your sales funnel?",
+      "h4": "Touchpoints are present but all lead to a conversation request rather than self-serve evaluation",
+      "p": [
+        "Your website provides multiple entry points. Every use-case page and solutions page carries a Request a Demo or Talk to Our Team call to action. The platform page (tenderalpha.com/platform) offers a sign-up option as well as a demo request. The documentation page (tenderalpha.com/documentation) is publicly accessible and provides schema references that a technically-minded buyer could begin reviewing before making contact.",
+        "The LinkedIn company page is findable and links back to tenderalpha.com. Your co-founder's LinkedIn profile references the product directly. The FactSet marketplace listing (factset.com/marketplace/catalog/product/tenderalpha) and the Snowflake marketplace listing (app.snowflake.com/marketplace/listing/GZU6Z5NIRPQ/tenderalpha-global-government-contracts-data) both serve as external funnel entry points within platforms where financial data buyers are actively looking.",
+        "The G2B Sales Pulse newsletter, referenced in the June 2026 LinkedIn post, represents a content subscription touchpoint, though no subscription link or sign-up mechanism was found in the research. The blog (tenderalpha.com/blog) creates ongoing touchpoints for returning visitors. The gap is that all of these entry points lead to a conversation request rather than to a self-serve evaluation step. No sample datasets, free trial access or low-barrier entry product is visible, which limits the funnel to buyers who are ready to speak rather than buyers who are still deciding whether to engage at all."
+      ]
+    }
+  ],
+  "password": "TenderAlpha2026"
+}
