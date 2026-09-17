@@ -1,0 +1,270 @@
+{
+  "company_name": "Daloopa",
+  "icp_rag": "amber",
+  "prod_rag": "amber",
+  "sales_rag": "amber",
+  "coll_rag": "green",
+  "mc_rag": "amber",
+  "exec_summary": "Ankur, your US commercial story is clear and well evidenced, with distinct solution pages by firm type and a consistent CEO led narrative across podcast, YouTube and LinkedIn. The most visible gap sits exactly where you described it, every commercial hire identified is based in New York, no UK or European presence, localised content or case study was found, and pricing and post demo process are not visible publicly. Your internal sales process appears structured, with a named methodology and self reported scripts in active use, but this has not yet been shown to extend into the international markets you are targeting next. The task ahead is less about proving the product and more about building visible commercial infrastructure for the UK and Europe.",
+  "focus": [
+    {
+      "h4": "Build a visible UK and European commercial presence",
+      "p": "Every account executive role identified through this research is based in New York, and no office, event presence or localised content for the UK or Europe was found. A locally based commercial hire, supported by market specific case studies, would give buyers in these markets something concrete to engage with."
+    },
+    {
+      "h4": "Make the buying journey visible beyond the first step",
+      "p": "The website currently shows only the first step of your sales process, booking a demo. Publishing what happens after that call, together with clearer packaging or indicative pricing, would reduce reliance on a sales conversation to answer basic buying questions."
+    },
+    {
+      "h4": "Broaden commercial visibility beyond the CEO",
+      "p": "Your CEO carries a large share of the public facing commercial story. Building a more visible public presence for your commercial leadership, including yourself as Chief Revenue Officer, would help establish credibility with buyers in markets that do not yet know the brand."
+    }
+  ],
+  "icp_data": [
+    {
+      "label": "1",
+      "title": "Customer clarity",
+      "body1": "Clear by firm type on site,",
+      "body2": "no geography segmentation found anywhere",
+      "q": "Is it clear who your ideal customers are from your online presence?",
+      "h4": "Firm type clear, geography absent",
+      "p": [
+        "On your website, your ideal customers are clearly organised by firm type. Dedicated solution pages exist for hedge funds, investment banking, mutual funds, equity research and private equity, each describing specific workflow problems such as the time taken to build models during earnings season (daloopa.com/daloopa-solutions). Your homepage states that your customers include 185 of the largest hedge funds, mutual funds and bulge bracket banks, alongside five major AI companies (daloopa.com homepage). This is consistent with how press coverage describes you, with one article noting your platform \"targets hedge funds, asset managers, banks, and other institutions, with over 160 customers\" (superbcrew.com). A LinkedIn post from a member of your team describes Daloopa as building \"the most trusted platform for high quality financial data, used by the world's leading investment firms, banks, and corporates,\" which is consistent with the website segmentation.",
+        "What is not present, on the website or elsewhere, is any segmentation by geography. None of the solution pages, case studies or press coverage reviewed distinguish between US, UK or European buyers, and no separate journey exists for customers outside the US. The demo request form on the website asks for company headquarters location as one of several fields, but nothing in the surrounding content adapts based on that answer."
+      ]
+    },
+    {
+      "label": "2",
+      "title": "Problem depth",
+      "body1": "Quantified time and cost impact,",
+      "body2": "shown across five distinct solution pages",
+      "q": "Do you understand deeply the business challenges your customers are trying to solve?",
+      "h4": "Detailed, quantified problem framing",
+      "p": [
+        "Your solution pages go well beyond describing pain points at a surface level. The Investment Banking page breaks down the legacy process of building a model, stating that pulling historical filings takes over a day, copying and pasting from each file takes four to eight hours, and full model building takes two days to a week or more, compared with 45 to 60 minutes using Daloopa (daloopa.com/use-cases/investment-banking). The Mutual Funds page describes a specific evening by evening breakdown of a fund analyst's earnings season workflow, from the 4pm earnings release through to updating models with filings after midnight (daloopa.com/use-cases/mutual-funds). The Private Equity page frames the problem in terms of time pressure on evaluating potential investments under tight deadlines (daloopa.com/use-cases/private-equity). Each page quantifies a specific business cost, in hours or percentage time saved, rather than describing the problem generically. This level of detail is consistent across five separate solution pages covering different customer types."
+      ]
+    },
+    {
+      "label": "3",
+      "title": "Team alignment",
+      "body1": "Leadership themes align well,",
+      "body2": "wider team content not visible",
+      "q": "Are your sales and marketing teams aligned around the same customer?",
+      "h4": "Leadership alignment, wider team unclear",
+      "p": [
+        "Your CEO's public activity, across a podcast, YouTube channel and LinkedIn, consistently uses the same themes found on the website, including source linked data, audit ready outputs and eliminating hallucination in AI generated financial analysis. A recent LinkedIn post from your CRO profile marked the launch of Scout, aligning with the CEO's own posts on the same product launch. A LinkedIn post from another team member described a big milestone around fundamental data becoming natively available inside ChatGPT for Financial Services, again reinforcing the same AI and data quality themes. Beyond these, the profiles found for individual account executives (Strategic Account Executive, Senior Account Executive) show current job titles and prior education but no visible posts or content that could be assessed for thematic alignment with the company page. The evidence available shows alignment at the leadership level but does not extend to visible content from the wider account executive team."
+      ]
+    },
+    {
+      "label": "4",
+      "title": "Hiring credibility",
+      "body1": "Mixed domain depth across the,",
+      "body2": "commercial team based on profiles found",
+      "q": "Do you hire commercial people who can build credibility with your buyers?",
+      "h4": "Some strong domain hires, mixed elsewhere",
+      "p": [
+        "Some of your commercial hires show clear domain relevant experience. Your Sales Manager previously held the role of Sales Director at Fitch Solutions and Account Manager roles at Argus Media and CreditSights, all financial data and analytics vendors serving similar buyers to Daloopa (LinkedIn profile). Your Global Head of Sales role between July 2025 and April 2026 was held by someone who had previously worked as Founding Account Executive at Daloopa for over two years before progressing internally (LinkedIn profile). Other account executive profiles identified, including a Strategic Account Executive and a Senior Account Executive, list their education and current title but no specific prior experience in financial data, investment research or capital markets was visible in the profile information available. Your buyers, drawn from hedge funds, mutual funds, investment banks and private equity, are typically senior analysts and portfolio managers, and the seniority and domain depth of the commercial team varies across the individuals whose profiles could be reviewed."
+      ]
+    },
+    {
+      "label": "5",
+      "title": "Market targeting",
+      "body1": "No UK or European presence,",
+      "body2": "identified anywhere in the research",
+      "q": "Do you have a targeted approach for each market and geography you sell into?",
+      "h4": "No visible UK or European targeting",
+      "p": [
+        "All account executive and sales leadership roles identified through job postings and LinkedIn profiles, including Strategic Account Executive, Account Executive New Business, Account Executive Expansion and Enterprise Account Executive, are based in New York. No UK or European office, hire, or presence was identified anywhere in the research, including on the website, in press coverage or in job postings. Your solution pages reference SEC filings, 10Qs, 10Ks and US regulatory disclosure formats specifically, without reference to European filing regimes or non US regulatory frameworks (daloopa.com/use-cases/equity-research, daloopa.com/use-cases/investment-banking). No content was found in a language other than English, and no case study or press mention referenced a UK or European client. Your global workforce does include operations based in Noida, India, referenced in a LinkedIn profile for a Head of India and Global Operations role, but this reflects delivery and operational capacity rather than a market facing commercial presence in the UK or Europe."
+      ]
+    }
+  ],
+  "prod_data": [
+    {
+      "label": "1",
+      "title": "Proposition clarity",
+      "body1": "Core message is short,",
+      "body2": "some AI jargon used elsewhere",
+      "q": "Can your proposition be quickly and easily understood?",
+      "h4": "Clear core message, some jargon present",
+      "p": "Your homepage headline, \"The trusted standard across financial services,\" together with the description \"AI powered data infrastructure platform that extracts and organizes historical financial information,\" communicates the core proposition in a short space (daloopa.com homepage; startupintros.com/orgs/daloopa). The solution pages each open with a plain statement of the problem, for example \"Manual data collection is a major bottleneck in equity research\" (daloopa.com/use-cases/equity-research). At the same time, some of your public language leans on terms that require prior familiarity with the category, including agentic era, MCP and hallucination free, which appear across your LinkedIn company description and several blog and LinkedIn posts from your CEO. These terms are used without being defined for a reader encountering the business for the first time."
+    },
+    {
+      "label": "2",
+      "title": "Problem solving",
+      "body1": "Specific quantified consequences,",
+      "body2": "repeated across multiple solution pages",
+      "q": "Do you products solve clearly defined customer problems?",
+      "h4": "Strong, quantified problem to solution mapping",
+      "p": "Your solution pages articulate specific, quantified consequences of not using Daloopa. The Investment Banking page states that the legacy process of pulling historical filings, copying and pasting, and linking data can take one week or more, compared with 45 to 60 minutes with Daloopa, and separately claims 50 to 70% time savings compared with the traditional approach (daloopa.com/use-cases/investment-banking). The Mutual Funds page describes the specific cost of earnings season, including late nights, manual data entry and the risk of errors distracting analysts from decision making (daloopa.com/use-cases/mutual-funds). Your homepage states that Daloopa cuts 70% of the time spent building new models when initiating coverage, and saves an average of 2 hours per ticker when updating models during earnings season (daloopa.com homepage). These figures are repeated with variation across multiple solution pages rather than appearing once."
+    },
+    {
+      "label": "3",
+      "title": "Entry point",
+      "body1": "Demo request is the only,",
+      "body2": "entry point found, gated by six fields",
+      "q": "Is there a clear jumping off point for new customers?",
+      "h4": "Demo led entry, no trial or sample found",
+      "p": "Your website consistently uses a Request a Demo call to action across the homepage and every solution page reviewed (daloopa.com/use-cases/hedge-funds-analyst, daloopa.com/use-cases/investment-banking, daloopa.com/use-cases/mutual-funds). The Hedge Funds solutions page describes this as a quick 15 minute call to assess your team's needs (daloopa.com/daloopa-solutions/hedge-funds-analyst). The demo request form requires first name, last name, email, company, phone number and company headquarters location before submission. No free trial, no time limited trial period, and no downloadable sample dataset gated by contact details were found anywhere in the research. The entry point available is a sales conversation rather than a self directed trial or sample."
+    },
+    {
+      "label": "4",
+      "title": "Upsell paths",
+      "body1": "Six named products visible,",
+      "body2": "plus a separate plans page",
+      "q": "Do you have clear upsell and cross-sell opportunities within your offering?",
+      "h4": "Clear modular product suite visible",
+      "p": "Your website lists a clear suite of distinct products beyond a single core offering, including Daloopa Data Sheets, the Daloopa Add In, Scout, Daloopa API, Daloopa MCP and Daloopa Cloud, each with its own dedicated page describing a different use case (daloopa.com homepage; daloopa.com/daloopa-solutions). A Plans page exists in the site navigation, distinct from the individual product pages, suggesting a structured approach to packaging beyond a single offering (daloopa.com/daloopa-solutions). The product suite spans different delivery formats, Excel add in, API, and cloud native options referenced in press coverage as including Snowflake, Databricks and AWS S3 (superbcrew.com), giving a visible path from a core data subscription toward additional modules."
+    },
+    {
+      "label": "5",
+      "title": "Pricing visibility",
+      "body1": "Plans page exists,",
+      "body2": "but no figures published anywhere",
+      "q": "Is your pricing aligned to the value you create?",
+      "h4": "No published pricing found",
+      "p": "A Plans page exists in your website navigation (daloopa.com/daloopa-solutions), but no pricing figures, tiers or packages were found within the research available. No page reviewed, including the solution pages for hedge funds, investment banking, mutual funds, equity research or private equity, publishes indicative pricing. The benefits of the product, including time savings and accuracy figures, are clearly stated across multiple pages, but these are not connected to any published price point that would let a prospect assess value for cost without engaging in a sales conversation."
+    }
+  ],
+  "sales_data": [
+    {
+      "label": "1",
+      "title": "Journey visibility",
+      "body1": "Only first step shown,",
+      "body2": "no middle or end described",
+      "q": "Does your sales process have a clear beginning, middle and end?",
+      "h4": "First step visible only",
+      "p": "The beginning of your process is visible and consistent across the website, a Request a Demo call to action appears on the homepage and every solution page reviewed, and the Hedge Funds solutions page describes this as a call lasting 15 minutes to assess a team's needs (daloopa.com/daloopa-solutions/hedge-funds-analyst). Beyond this first step, no page describes what happens after the initial call, how a trial or pilot might work, what a contract or onboarding process looks like, or what a completed engagement includes. The case study shared directly with us, covering your work with Kultura Capital Management, demonstrates a completed client relationship but does not itself describe the stages a prospect moves through to reach that outcome."
+    },
+    {
+      "label": "2",
+      "title": "Buyer alignment",
+      "body1": "Role based content present,",
+      "body2": "form adds friction before first call",
+      "q": "Is your sales process designed around how customers buy rather than how you prefer to sell?",
+      "h4": "Role based content, some added friction",
+      "p": "Your solution pages are structured around distinct buyer roles, for example the Hedge Funds page separates content for Analyst and Portfolio Manager audiences (daloopa.com/daloopa-solutions/hedge-funds-analyst), which reflects some adaptation to how different buyers within an institution might engage. At the same time, the demo request form requires six fields, including phone number and company headquarters location, before a prospect can request even an initial call, which adds friction ahead of the first conversation. No self serve trial or lower commitment entry point was found that would let a prospect evaluate the product before a full sales conversation, which may or may not match how your target buyers, typically time pressed analysts and portfolio managers, prefer to first assess a new tool."
+    },
+    {
+      "label": "3",
+      "title": "Team alignment",
+      "body1": "Firm yes reported with,",
+      "body2": "specific supporting detail given",
+      "q": "Is your team aligned around the same sales process?",
+      "h4": "Firm self reported alignment",
+      "p": "In response to the sales process form, you stated: Yes, we have put together a robust sales process, discovery scripts, cold calling scripts, message sequences etc which are well defined and used. This is a clear, specific answer describing defined assets in active use across the sales function, including discovery scripts and message sequences."
+    },
+    {
+      "label": "4",
+      "title": "Repeatability",
+      "body1": "Defined process reported in US,",
+      "body2": "no evidence found for other markets",
+      "q": "Is your sales process repeatable across the business?",
+      "h4": "Repeatable in the US, unproven elsewhere",
+      "p": "Your form response describes a defined process, including discovery scripts, cold calling scripts and message sequences, stated to be in active use. The account executive roles identified through job postings, including Strategic Account Executive, Account Executive New Business, Account Executive Expansion and Enterprise Account Executive, suggest a degree of specialisation by deal type within the same market. All of these roles are based in New York, and no evidence was found, in job postings, press coverage or website content, describing how or whether this process has been adapted or applied outside the US market. Given that international growth is described as a current challenge, evidence of repeatability was only available within the US context."
+    },
+    {
+      "label": "5",
+      "title": "Sales methodology",
+      "body1": "Sandler named specifically,",
+      "body2": "as the selling system used",
+      "q": "Do you use a particular selling system or methodology?",
+      "h4": "Named methodology reported",
+      "p": "In response to the sales process form, you named Sandler as your selling methodology. This is a specific, named commercial sales methodology rather than a general description of a sales process or deal stages."
+    }
+  ],
+  "coll_data": [
+    {
+      "label": "1",
+      "title": "Public collateral",
+      "body1": "Structured by customer type,",
+      "body2": "with quantified time cost figures",
+      "q": "How targeted towards your ideal customer is your publicly available collateral?",
+      "h4": "Well targeted, quantified public content",
+      "p": "Your solution pages are built around specific customer types, with separate pages for hedge funds, investment banking, mutual funds, equity research and private equity, each opening with a plain statement of the buyer's problem, for example Are you searching for financial modeling tools that can give you a competitive edge? on the Investment Banking page (daloopa.com/use-cases/investment-banking). Each page follows a consistent structure of problem, legacy process, time cost and solution, with quantified figures such as 50 to 70% time savings (daloopa.com/use-cases/investment-banking) and 15 to 45 minutes per model update (daloopa.com/use-cases/mutual-funds). A published case study covering the mutual fund business of a global asset manager describes training delivered by the Daloopa Customer Success team (daloopa.com/case-study/mutual-fund), reinforcing the same customer focused structure found on the solution pages."
+    },
+    {
+      "label": "2",
+      "title": "Shared collateral",
+      "body1": "Named client case study shared,",
+      "body2": "consistent with public case study format",
+      "q": "How targeted towards your ideal customer is the pitch deck or collateral you shared directly with us?",
+      "h4": "Client specific case study format",
+      "p": "You shared a case study document covering your work with Kultura Capital Management directly with us. This reflects a client specific proof point in the same format as the mutual fund case study published on your website (daloopa.com/case-study/mutual-fund), which describes training delivered by your Customer Success team as part of the client relationship. Using a named, specific client account as the basis for sales collateral is consistent with how your public case studies are structured. Beyond confirming the format and the named client relationship, further detail on the specific claims, figures or structure contained within this document was limited in the material available for review."
+    },
+    {
+      "label": "3",
+      "title": "Revenue focus",
+      "body1": "Every page ends with,",
+      "body2": "a demo request call to action",
+      "q": "Does every asset support revenue generation rather than simply provide information?",
+      "h4": "Consistent calls to action across content",
+      "p": "Every solution page reviewed, covering hedge funds, investment banking, mutual funds, equity research and private equity, ends with a Request a Demo call to action (daloopa.com/use-cases/investment-banking, daloopa.com/use-cases/mutual-funds, daloopa.com/daloopa-solutions/hedge-funds-analyst). Blog content follows the same pattern, a blog post on competitive analysis for hedge fund analysts closes with Interested in seeing how it works? Request a demo today to experience Daloopa's capabilities firsthand (daloopa.com/blog/analyst-best-practices/competitive-analysis-in-finance-for-hedge-fund-analysts). This consistent placement of a next step across both product pages and blog content indicates that content is built to move a reader toward a demo request rather than to stand alone as general information."
+    },
+    {
+      "label": "4",
+      "title": "Localisation",
+      "body1": "No UK or European reference,",
+      "body2": "found in any collateral reviewed",
+      "q": "How localised is your collateral towards your target markets?",
+      "h4": "No localisation found for UK or Europe",
+      "p": "No collateral reviewed, across the website, blog, case studies or the document shared directly with us, references the UK or European markets specifically. Solution pages reference US specific regulatory concepts, including SEC filings, 10Qs and 10Ks, as the basis for the data extracted (daloopa.com/use-cases/equity-research, daloopa.com/use-cases/investment-banking). No content in a language other than English was identified, and no case study or client reference relating to a UK or European institution was found in the research conducted."
+    },
+    {
+      "label": "5",
+      "title": "Message consistency",
+      "body1": "Same themes repeated across,",
+      "body2": "website, podcast, LinkedIn and press",
+      "q": "Is your messaging consistent across presentations, proposals and marketing materials?",
+      "h4": "Strong consistency across all channels",
+      "p": "The themes of source linked data, audit ready outputs and reducing hallucination in AI generated analysis appear consistently across your website, your CEO's podcast (InDaloop), his YouTube appearances, and his LinkedIn posts. A LinkedIn post describing the Daloopa MCP launch stated plug the Daloopa MCP into any LLM model, a theme also covered in a YouTube video titled How to Use the Daloopa MCP with Claude, published in 2026. Press coverage of your Series C raise describes the same auditable, standardized data positioning found on your website (superbcrew.com), and a podcast episode titled Building the Analyst's AI Stack: Inside Anthropic x Daloopa reflects the same AI stack and data trust themes found in your product pages."
+    }
+  ],
+  "mc_data": [
+    {
+      "label": "1",
+      "title": "Channel mix",
+      "body1": "LinkedIn, YouTube and podcast,",
+      "body2": "used, no community leadership found",
+      "q": "Are you leveraging the most appropriate channels to reach your ideal customers?",
+      "h4": "Multiple channels active, mixed depth",
+      "p": "You maintain a LinkedIn company page with 34,446 followers, a YouTube channel with 276 subscribers and 57 videos, and a podcast, InDaloop, hosted by your CEO featuring guests from partner organisations. Your CEO has also appeared as a guest on external podcasts, including a return appearance on The Hedgineer Podcast in 2026 and an episode of the Yet Another Value Podcast in 2025. These channels reach a relevant audience of investment professionals through content on AI adoption in finance. No industry community, association or networking group led by a member of your team was identified in the research conducted. Engagement across these channels varies significantly by platform, which is addressed separately below."
+    },
+    {
+      "label": "2",
+      "title": "Leadership picture",
+      "body1": "CEO carries most of the,",
+      "body2": "visible public leadership narrative",
+      "q": "How much of a clear picture can a prospect develop of your business and your leadership before they reach out?",
+      "h4": "CEO led picture, others less visible",
+      "p": "Your CEO's public activity across podcast, YouTube and LinkedIn builds a consistent picture of the business and its direction, reinforced by press coverage of funding rounds in Axios and TechCrunch (referenced in a LinkedIn post and in techcrunch.com/2024/05/07). Your CRO profile has one post identified, marking the Scout product launch, which reflects the same product narrative as your CEO's posts on the same topic. Beyond these two leadership profiles, no further individual leadership presence, such as posts, articles or appearances from other named executives, was identified in the research conducted, meaning the public picture of your leadership team is currently built around a small number of individuals."
+    },
+    {
+      "label": "3",
+      "title": "Campaign execution",
+      "body1": "Consistent themes across channels,",
+      "body2": "all built around a US context",
+      "q": "How well are you executing multi-channel campaigns driving clarity of message, continuity of story and purpose of the business?",
+      "h4": "Consistent story, entirely US focused",
+      "p": "The same themes, source linked data, audit ready outputs and AI agent integrations, run through your website, blog, podcast and LinkedIn content, and recent YouTube videos on connecting Daloopa's MCP to Claude, ChatGPT and Hebbia reflect the same product narrative as your website's MCP product page. Your YouTube channel is posted to on a monthly basis, and your podcast has published multiple seasons with named guests. At the same time, all of this content, across every channel reviewed, is built around a US market context, with no channel identified carrying content, campaigns or messaging aimed specifically at the UK or European markets referenced in the form."
+    },
+    {
+      "label": "4",
+      "title": "Engagement levels",
+      "body1": "Strong LinkedIn following,",
+      "body2": "low engagement rate on YouTube",
+      "q": "What level of engagement are you seeing across all of your channels?",
+      "h4": "Mixed engagement across channels",
+      "p": "Your LinkedIn company page has 34,446 followers. A LinkedIn post from your CEO announcing the $47 million Series C raise received 357 reactions and 44 comments. Your YouTube channel has 276 subscribers, 24,749 total views across 57 videos, an average of 434 views per video, and an average engagement rate of 0.46%. Your most viewed video, covering the Series B fundraise, has 1,661 views and 11 likes, while recent uploads in 2026 covering MCP integrations with Claude, ChatGPT and Hebbia have received between 51 and 189 views each, with minimal likes or comments recorded."
+    },
+    {
+      "label": "5",
+      "title": "Funnel touch points",
+      "body1": "Demo and newsletter present,",
+      "body2": "across every page and channel",
+      "q": "Are there relevant and publicly available touch points for prospects to engage with to fall into your sales funnel?",
+      "h4": "Consistent demo and content touch points",
+      "p": "A Request a Demo call to action is present on your homepage and on every solution page reviewed, each leading to a consistent form (daloopa.com/demo). Your blog content ends with a newsletter subscription prompt, Subscribe to our newsletter, Stay in the loop with our (daloopa.com/blog/analyst-best-practices/competitive-analysis-in-finance-for-hedge-fund-analysts). Your LinkedIn company page, YouTube channel and podcast each offer a follow or subscribe option, and your podcast is also distributed through Apple Podcasts. These touch points are consistently oriented toward either a demo request or a content subscription across the channels reviewed."
+    }
+  ],
+  "password": "Daloopa2026"
+}
